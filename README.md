@@ -7,7 +7,11 @@ To Aggregate resources to learn and understand Clojure (and LISP in general).
 
 ##Clojure
 * [Clojure Homepage](http://clojure.org/).
+* [Clojure Functional Programming](http://clojure.org/functional_programming).
+* [Clojure Glossary](https://github.com/clojuredocs/guides/blob/master/articles/language/glossary.md).
 
+##Why learn Clojure
+* [Clojure is not for geniuses](https://adambard.com/blog/clojure-is-not-for-geniuses/)
 
 ##LISP
 * [Lisp: It's Not About Macros, It's About Read](http://jlongster.com/Lisp--It-s-Not-About-Macros,-It-s-About-Read).
