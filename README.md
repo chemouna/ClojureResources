@@ -25,4 +25,9 @@ To Aggregate resources to learn and understand Clojure (and LISP in general).
 ## LISP
 * [Lisp: It's Not About Macros, It's About Read](http://jlongster.com/Lisp--It-s-Not-About-Macros,-It-s-About-Read).
 
+## Github Samples
+* [Clojure client for Twitter API](https://github.com/mattrepl/clojure-twitter).
+
 ## Libraries
+* [https://github.com/owainlewis/clojure-mail](https://github.com/owainlewis/clojure-mail).
+* [A library for reading and writing CSV files from Clojure](https://github.com/davidsantiago/clojure-csv).
