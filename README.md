@@ -17,7 +17,8 @@ To Aggregate resources to learn and understand Clojure (and LISP in general).
 * [Clojure Distilled](http://yogthos.github.io/ClojureDistilled.html).
 
 ## Interesting Blog Posts
-* [Quoting Without Confusion](https://blog.8thlight.com/colin-jones/2012/05/22/quoting-without-confusion.html)
+* [Quoting Without Confusion](https://blog.8thlight.com/colin-jones/2012/05/22/quoting-without-confusion.html).
+* [Clojure from the ground up: basic types](https://aphyr.com/posts/302-clojure-from-the-ground-up-basic-types).
 
 ## Why learn Clojure
 * [Clojure is not for geniuses](https://adambard.com/blog/clojure-is-not-for-geniuses/)
