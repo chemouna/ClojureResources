@@ -13,6 +13,7 @@ To Aggregate resources to learn and understand Clojure (and LISP in general).
 * [Clojure reference](http://clojure.org/documentation).
 * [Clojure Contrib Library API Docs](http://clojure.github.io/).
 * [Clojure reader](http://clojure.org/reader).
+
 * [Clojure Distilled](http://yogthos.github.io/ClojureDistilled.html).
 
 ## Interesting Blog Posts
@@ -24,6 +25,7 @@ To Aggregate resources to learn and understand Clojure (and LISP in general).
 ## Why learn Clojure
 * [Clojure is not for geniuses](https://adambard.com/blog/clojure-is-not-for-geniuses/)
 * [Clojure Rationale](http://clojure.org/about/rationale).
+* [Clojure State](http://clojure.org/about/state).
 
 ## LISP
 * [Lisp: It's Not About Macros, It's About Read](http://jlongster.com/Lisp--It-s-Not-About-Macros,-It-s-About-Read).
