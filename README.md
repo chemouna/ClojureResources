@@ -13,14 +13,15 @@ To Aggregate resources to learn and understand Clojure (and LISP in general).
 * [Clojure reference](http://clojure.org/documentation).
 * [Clojure Contrib Library API Docs](http://clojure.github.io/).
 * [Clojure reader](http://clojure.org/reader).
-
 * [Clojure Distilled](http://yogthos.github.io/ClojureDistilled.html).
+
+## Concepts
+* [Idempotence](https://en.wikipedia.org/wiki/Idempotence)
 
 ## Interesting Blog Posts
 * [Quoting Without Confusion](https://blog.8thlight.com/colin-jones/2012/05/22/quoting-without-confusion.html).
 * [Clojure from the ground up: basic types](https://aphyr.com/posts/302-clojure-from-the-ground-up-basic-types).
 * [Clojure from the ground up: functions](https://aphyr.com/posts/303-clojure-from-the-ground-up-functions).
-
 
 ## Why learn Clojure
 * [Clojure is not for geniuses](https://adambard.com/blog/clojure-is-not-for-geniuses/)
@@ -29,6 +30,10 @@ To Aggregate resources to learn and understand Clojure (and LISP in general).
 
 ## LISP
 * [Lisp: It's Not About Macros, It's About Read](http://jlongster.com/Lisp--It-s-Not-About-Macros,-It-s-About-Read).
+
+## MACROS
+* [The Anatomy of a Clojure Macro](http://bryangilbert.com/blog/2013/07/30/anatomy-of-a-clojure-macro/).
+* [Understanding the Clojure -> macro](http://blog.fogus.me/2009/09/04/understanding-the-clojure-macro/).
 
 ## Cheat Sheets
 * [Clojure 1.7 Cheat Sheet (v32)](http://clojure.org/api/cheatsheet).
