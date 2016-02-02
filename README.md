@@ -18,6 +18,10 @@ To Aggregate resources to learn and understand Clojure (and LISP in general).
 ## Concepts
 * [Idempotence](https://en.wikipedia.org/wiki/Idempotence)
 
+## Data structures
+* [Getting Acquainted With Clojure Zippers
+](http://josf.info/blog/2014/03/21/getting-acquainted-with-clojure-zippers/).
+
 ## Interesting Blog Posts
 * [Quoting Without Confusion](https://blog.8thlight.com/colin-jones/2012/05/22/quoting-without-confusion.html).
 * [Clojure from the ground up: basic types](https://aphyr.com/posts/302-clojure-from-the-ground-up-basic-types).
