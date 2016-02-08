@@ -19,8 +19,7 @@ To Aggregate resources to learn and understand Clojure (and LISP in general).
 * [Idempotence](https://en.wikipedia.org/wiki/Idempotence)
 
 ## Data structures
-* [Getting Acquainted With Clojure Zippers
-](http://josf.info/blog/2014/03/21/getting-acquainted-with-clojure-zippers/).
+* [Getting Acquainted With Clojure Zippers](http://josf.info/blog/2014/03/21/getting-acquainted-with-clojure-zippers/).
 
 ## Interesting Blog Posts
 * [Quoting Without Confusion](https://blog.8thlight.com/colin-jones/2012/05/22/quoting-without-confusion.html).
@@ -38,6 +37,9 @@ To Aggregate resources to learn and understand Clojure (and LISP in general).
 ## MACROS
 * [The Anatomy of a Clojure Macro](http://bryangilbert.com/blog/2013/07/30/anatomy-of-a-clojure-macro/).
 * [Understanding the Clojure -> macro](http://blog.fogus.me/2009/09/04/understanding-the-clojure-macro/).
+
+## Operations
+* [How to remember the difference between conj and cons in Clojure](http://bfontaine.net/blog/2014/05/25/how-to-remember-the-difference-between-conj-and-cons-in-clojure/)
 
 ## Cheat Sheets
 * [Clojure 1.7 Cheat Sheet (v32)](http://clojure.org/api/cheatsheet).
