@@ -17,6 +17,8 @@ To Aggregate resources to learn and understand Clojure (and LISP in general).
 
 ## Concepts
 * [Idempotence](https://en.wikipedia.org/wiki/Idempotence)
+* [being Lazy in clojure](http://noobtuts.com/clojure/being-lazy-in-clojure).
+
 
 ## Data structures
 * [Getting Acquainted With Clojure Zippers](http://josf.info/blog/2014/03/21/getting-acquainted-with-clojure-zippers/).
