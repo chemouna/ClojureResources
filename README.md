@@ -40,8 +40,13 @@ To Aggregate resources to learn and understand Clojure (and LISP in general).
 * [The Anatomy of a Clojure Macro](http://bryangilbert.com/blog/2013/07/30/anatomy-of-a-clojure-macro/).
 * [Understanding the Clojure -> macro](http://blog.fogus.me/2009/09/04/understanding-the-clojure-macro/).
 
+<<<<<<< 4ab182ed2fb34334403dd435c96b3f0412e45d7e
 ## Operations
 * [How to remember the difference between conj and cons in Clojure](http://bfontaine.net/blog/2014/05/25/how-to-remember-the-difference-between-conj-and-cons-in-clojure/)
+=======
+## Tutorials
+* [Clojure core.match tutorial](https://github.com/clojure/core.match/wiki/Overview).
+>>>>>>> Add some resources.
 
 ## Cheat Sheets
 * [Clojure 1.7 Cheat Sheet (v32)](http://clojure.org/api/cheatsheet).
@@ -54,3 +59,4 @@ To Aggregate resources to learn and understand Clojure (and LISP in general).
 * [https://github.com/owainlewis/clojure-mail](https://github.com/owainlewis/clojure-mail).
 * [A library for reading and writing CSV files from Clojure](https://github.com/davidsantiago/clojure-csv).
 * [tools.cli](https://github.com/clojure/tools.cli).
+* [core.match](https://github.com/clojure/core.match). 
