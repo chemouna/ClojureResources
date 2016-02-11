@@ -38,15 +38,17 @@ To Aggregate resources to learn and understand Clojure (and LISP in general).
 
 ## MACROS
 * [The Anatomy of a Clojure Macro](http://bryangilbert.com/blog/2013/07/30/anatomy-of-a-clojure-macro/).
-* [Understanding the Clojure -> macro](http://blog.fogus.me/2009/09/04/understanding-the-clojure-macro/).
+* [Understandingc the Clojure -> macro](http://blog.fogus.me/2009/09/04/understanding-the-clojure-macro/).
+* [Clojure Macro Explorations of cond->](http://fhf.org/archives/766)
+* [Some syntactic sugar for Clojure's threading macros](http://ianrumford.github.io/blog/2014/10/24/some-syntactic-sugar-for-clojure-threading-macros/).
 
-<<<<<<< 4ab182ed2fb34334403dd435c96b3f0412e45d7e
 ## Operations
 * [How to remember the difference between conj and cons in Clojure](http://bfontaine.net/blog/2014/05/25/how-to-remember-the-difference-between-conj-and-cons-in-clojure/)
-=======
+
+
 ## Tutorials
 * [Clojure core.match tutorial](https://github.com/clojure/core.match/wiki/Overview).
->>>>>>> Add some resources.
+
 
 ## Cheat Sheets
 * [Clojure 1.7 Cheat Sheet (v32)](http://clojure.org/api/cheatsheet).
