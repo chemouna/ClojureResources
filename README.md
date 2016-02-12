@@ -41,6 +41,7 @@ To Aggregate resources to learn and understand Clojure (and LISP in general).
 * [Understandingc the Clojure -> macro](http://blog.fogus.me/2009/09/04/understanding-the-clojure-macro/).
 * [Clojure Macro Explorations of cond->](http://fhf.org/archives/766)
 * [Some syntactic sugar for Clojure's threading macros](http://ianrumford.github.io/blog/2014/10/24/some-syntactic-sugar-for-clojure-threading-macros/).
+* [Thrush in Clojure](http://debasishg.blogspot.co.uk/2010/04/thrush-in-clojure.html).
 
 ## Operations
 * [How to remember the difference between conj and cons in Clojure](http://bfontaine.net/blog/2014/05/25/how-to-remember-the-difference-between-conj-and-cons-in-clojure/)
@@ -61,4 +62,4 @@ To Aggregate resources to learn and understand Clojure (and LISP in general).
 * [https://github.com/owainlewis/clojure-mail](https://github.com/owainlewis/clojure-mail).
 * [A library for reading and writing CSV files from Clojure](https://github.com/davidsantiago/clojure-csv).
 * [tools.cli](https://github.com/clojure/tools.cli).
-* [core.match](https://github.com/clojure/core.match). 
+* [core.match](https://github.com/clojure/core.match).
