@@ -64,3 +64,4 @@ To Aggregate resources to learn and understand Clojure (and LISP in general).
 * [tools.cli](https://github.com/clojure/tools.cli).
 * [core.match](https://github.com/clojure/core.match).
 * [Trammel](https://github.com/fogus/trammel).
+* [core.logic](https://github.com/clojure/core.logic).
