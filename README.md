@@ -46,10 +46,13 @@ To Aggregate resources to learn and understand Clojure (and LISP in general).
 ## Operations
 * [How to remember the difference between conj and cons in Clojure](http://bfontaine.net/blog/2014/05/25/how-to-remember-the-difference-between-conj-and-cons-in-clojure/)
 
-
 ## Tutorials
 * [Clojure core.match tutorial](https://github.com/clojure/core.match/wiki/Overview).
 
+* [How to remember the difference between conj and cons in Clojure](http://bfontaine.net/blog/2014/05/25/how-to-remember-the-difference-between-conj-and-cons-in-clojure/).
+
+## Edn
+* [Clojure Edn Walkthrough](http://www.compoundtheory.com/clojure-edn-walkthrough/).
 
 ## Cheat Sheets
 * [Clojure 1.7 Cheat Sheet (v32)](http://clojure.org/api/cheatsheet).
