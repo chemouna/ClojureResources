@@ -68,3 +68,7 @@ To Aggregate resources to learn and understand Clojure (and LISP in general).
 * [core.match](https://github.com/clojure/core.match).
 * [Trammel](https://github.com/fogus/trammel).
 * [core.logic](https://github.com/clojure/core.logic).
+* [kibit](https://github.com/jonase/kibit/).
+
+## Tools 
+* [Clojure with Emacs](http://clojure-doc.org/articles/tutorials/emacs.html)
