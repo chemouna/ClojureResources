@@ -22,6 +22,8 @@ To Aggregate resources to learn and understand Clojure (and LISP in general).
 
 ## Data structures
 * [Getting Acquainted With Clojure Zippers](http://josf.info/blog/2014/03/21/getting-acquainted-with-clojure-zippers/).
+* [Datatypes: deftype, defrecord and reify](http://clojure.org/reference/datatypes).
+ 
 
 ## Interesting Blog Posts
 * [Quoting Without Confusion](https://blog.8thlight.com/colin-jones/2012/05/22/quoting-without-confusion.html).
@@ -73,4 +75,5 @@ To Aggregate resources to learn and understand Clojure (and LISP in general).
 
 ## Open Source Projects Collections 
 * [ClojureWerkz: A growing collection of open source Clojure libraries](http://clojurewerkz.org/)
+* [The Clojure Toolbox](http://www.clojure-toolbox.com/)
 
