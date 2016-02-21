@@ -31,6 +31,9 @@ To Aggregate resources to learn and understand Clojure (and LISP in general).
 ## Clojure's Special Forms 
 * [:pre and :post](http://blog.fogus.me/2009/12/21/clojures-pre-and-post/)
 
+## Clojure's Best Practices 
+* [Record Constructors](http://stuartsierra.com/2015/05/17/clojure-record-constructors)
+
 ## Interesting Blog Posts
 * [Quoting Without Confusion](https://blog.8thlight.com/colin-jones/2012/05/22/quoting-without-confusion.html).
 * [Clojure from the ground up: basic types](https://aphyr.com/posts/302-clojure-from-the-ground-up-basic-types).
