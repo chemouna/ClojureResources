@@ -33,6 +33,7 @@ To Aggregate resources to learn and understand Clojure (and LISP in general).
 
 ## Clojure's Best Practices 
 * [Record Constructors](http://stuartsierra.com/2015/05/17/clojure-record-constructors)
+* [Clojure Do’s: Namespace Aliases](http://stuartsierra.com/2015/05/10/clojure-namespace-aliases)
 
 ## Clojure Namespaces
 * [Clojure Libs and Namespaces: require, use, import, and ns](https://blog.8thlight.com/colin-jones/2010/12/05/clojure-libs-and-namespaces-require-use-import-and-ns.html)
