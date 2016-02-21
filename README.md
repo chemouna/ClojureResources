@@ -23,7 +23,8 @@ To Aggregate resources to learn and understand Clojure (and LISP in general).
 ## Data structures
 * [Getting Acquainted With Clojure Zippers](http://josf.info/blog/2014/03/21/getting-acquainted-with-clojure-zippers/).
 * [Datatypes: deftype, defrecord and reify](http://clojure.org/reference/datatypes).
-
+* [Clojure: Updating keys in a map](http://www.markhneedham.com/blog/2013/09/17/clojure-updating-keys-in-a-map/)
+  
 ## Abstractions
 * [Protocols](http://clojure.org/reference/protocols).
 * [Multimethods and Hierarchies](http://clojure.org/reference/multimethods).
