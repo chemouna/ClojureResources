@@ -83,3 +83,5 @@ To Aggregate resources to learn and understand Clojure (and LISP in general).
 * [ClojureWerkz: A growing collection of open source Clojure libraries](http://clojurewerkz.org/)
 * [The Clojure Toolbox](http://www.clojure-toolbox.com/)
 
+## CheatSheets
+* [cider-cheatsheet](https://github.com/mlakewood/cider-cheatsheet)
