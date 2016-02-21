@@ -113,3 +113,4 @@ To Aggregate resources to learn and understand Clojure (and LISP in general).
 * [Clojure Vs Scala #1](http://blog.scottlogic.com/2014/10/28/Scala-Vs-Clojure.html)
 * [Clojure Vs Scala #2](http://programming-puzzler.blogspot.fr/2013/12/clojure-vs-scala.html)
 * [Clojure Vs Racket](http://programming-puzzler.blogspot.fr/2010/08/racket-vs-clojure.html)
+* [The Beauty of Clojure](http://owenrh.me.uk/blog/2015/08/24/)
