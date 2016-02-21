@@ -42,6 +42,7 @@ To Aggregate resources to learn and understand Clojure (and LISP in general).
 * [Quoting Without Confusion](https://blog.8thlight.com/colin-jones/2012/05/22/quoting-without-confusion.html).
 * [Clojure from the ground up: basic types](https://aphyr.com/posts/302-clojure-from-the-ground-up-basic-types).
 * [Clojure from the ground up: functions](https://aphyr.com/posts/303-clojure-from-the-ground-up-functions).
+* [Specifying default slot values for defrecord classes in Clojure](http://cemerick.com/2010/08/02/defrecord-slot-defaults/)
 
 ## Why learn Clojure
 * [Clojure is not for geniuses](https://adambard.com/blog/clojure-is-not-for-geniuses/)
