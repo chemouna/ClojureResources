@@ -28,6 +28,9 @@ To Aggregate resources to learn and understand Clojure (and LISP in general).
 * [http://clojure.org/reference/protocols](http://clojure.org/reference/protocols).
 * [Multimethods and Hierarchies](http://clojure.org/reference/multimethods).
 
+## Clojure's Special Forms 
+* [:pre and :post](http://blog.fogus.me/2009/12/21/clojures-pre-and-post/)
+
 ## Interesting Blog Posts
 * [Quoting Without Confusion](https://blog.8thlight.com/colin-jones/2012/05/22/quoting-without-confusion.html).
 * [Clojure from the ground up: basic types](https://aphyr.com/posts/302-clojure-from-the-ground-up-basic-types).
