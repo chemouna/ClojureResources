@@ -75,6 +75,7 @@ To Aggregate resources to learn and understand Clojure (and LISP in general).
 ## Tools 
 * [Clojure with Emacs](http://clojure-doc.org/articles/tutorials/emacs.html)
 * [How to Use Emacs, an Excellent Clojure Editor](How to Use Emacs, an Excellent Clojure Editor)
+* [Getting Started With Cider Repl for Clojure on Emacs Live](http://jr0cket.co.uk/2015/01/getting-started-with-cider-repl-for-clojure-on-emacs-live.html)
 
 ## Open Source Projects Collections 
 * [ClojureWerkz: A growing collection of open source Clojure libraries](http://clojurewerkz.org/)
