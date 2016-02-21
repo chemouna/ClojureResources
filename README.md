@@ -71,6 +71,7 @@ To Aggregate resources to learn and understand Clojure (and LISP in general).
 * [Trammel](https://github.com/fogus/trammel).
 * [core.logic](https://github.com/clojure/core.logic).
 * [kibit](https://github.com/jonase/kibit/).
+* [Schema](https://github.com/plumatic/schema)
 
 ## Tools 
 * [Clojure with Emacs](http://clojure-doc.org/articles/tutorials/emacs.html)
@@ -83,6 +84,9 @@ To Aggregate resources to learn and understand Clojure (and LISP in general).
 ## Open Source Projects Collections 
 * [ClojureWerkz: A growing collection of open source Clojure libraries](http://clojurewerkz.org/)
 * [The Clojure Toolbox](http://www.clojure-toolbox.com/)
+
+## Clojure Code Style 
+* [A Community Driven Clojure Style Guide](https://github.com/bbatsov/clojure-style-guide#tooling)
 
 ## CheatSheets
 * [cider-cheatsheet](https://github.com/mlakewood/cider-cheatsheet)
