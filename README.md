@@ -110,4 +110,6 @@ To Aggregate resources to learn and understand Clojure (and LISP in general).
 * [cider-cheatsheet](https://github.com/mlakewood/cider-cheatsheet)
 
 ## Comparison With Other Languages
-* [Clojure Vs Scala](http://blog.scottlogic.com/2014/10/28/Scala-Vs-Clojure.html)
+* [Clojure Vs Scala #1](http://blog.scottlogic.com/2014/10/28/Scala-Vs-Clojure.html)
+* [Clojure Vs Scala #2](http://programming-puzzler.blogspot.fr/2013/12/clojure-vs-scala.html)
+* [Clojure Vs Racket](http://programming-puzzler.blogspot.fr/2010/08/racket-vs-clojure.html)
