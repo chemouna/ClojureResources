@@ -25,7 +25,8 @@ To Aggregate resources to learn and understand Clojure (and LISP in general).
 * [Datatypes: deftype, defrecord and reify](http://clojure.org/reference/datatypes).
 
 ## Abstractions
-* [http://clojure.org/reference/protocols](http://clojure.org/reference/protocols)
+* [http://clojure.org/reference/protocols](http://clojure.org/reference/protocols).
+* [Multimethods and Hierarchies](http://clojure.org/reference/multimethods).
 
 ## Interesting Blog Posts
 * [Quoting Without Confusion](https://blog.8thlight.com/colin-jones/2012/05/22/quoting-without-confusion.html).
