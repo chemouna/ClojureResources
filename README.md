@@ -78,6 +78,7 @@ To Aggregate resources to learn and understand Clojure (and LISP in general).
 * [Getting Started With Cider Repl for Clojure on Emacs Live](http://jr0cket.co.uk/2015/01/getting-started-with-cider-repl-for-clojure-on-emacs-live.html)
 * [Building, Running, and the REPL](Building, Running, and the REPL)
 * [Leiningen](http://leiningen.org/)
+* [kibit](https://github.com/jonase/kibit)
 
 ## Open Source Projects Collections 
 * [ClojureWerkz: A growing collection of open source Clojure libraries](http://clojurewerkz.org/)
