@@ -30,10 +30,10 @@ To Aggregate resources to learn and understand Clojure (and LISP in general).
 * [Protocols](http://clojure.org/reference/protocols).
 * [Multimethods and Hierarchies](http://clojure.org/reference/multimethods).
 
-## Clojure's Special Forms 
+## Clojure's Special Forms
 * [:pre and :post](http://blog.fogus.me/2009/12/21/clojures-pre-and-post/)
 
-## Clojure's Best Practices 
+## Clojure's Best Practices
 * [Record Constructors](http://stuartsierra.com/2015/05/17/clojure-record-constructors)
 * [Clojure Do’s: Namespace Aliases](http://stuartsierra.com/2015/05/10/clojure-namespace-aliases)
 
@@ -64,6 +64,8 @@ To Aggregate resources to learn and understand Clojure (and LISP in general).
 ## Operations
 * [How to remember the difference between conj and cons in Clojure](http://bfontaine.net/blog/2014/05/25/how-to-remember-the-difference-between-conj-and-cons-in-clojure/)
 
+## Functions
+* [Clojure: Composing Functions](http://blog.jayfields.com/2010/07/clojure-composing-functions.html)
 
 ## Tutorials
 * [Clojure core.match tutorial](https://github.com/clojure/core.match/wiki/Overview).
@@ -92,7 +94,7 @@ To Aggregate resources to learn and understand Clojure (and LISP in general).
 * [Lein-figwheel](https://github.com/bhauman/lein-figwheel)
 * [Om: ClojureScript interface to Facebook's React](https://github.com/omcljs/om)
 
-## Tools 
+## Tools
 * [Clojure with Emacs](http://clojure-doc.org/articles/tutorials/emacs.html)
 * [How to Use Emacs, an Excellent Clojure Editor](How to Use Emacs, an Excellent Clojure Editor)
 * [Getting Started With Cider Repl for Clojure on Emacs Live](http://jr0cket.co.uk/2015/01/getting-started-with-cider-repl-for-clojure-on-emacs-live.html)
@@ -100,11 +102,11 @@ To Aggregate resources to learn and understand Clojure (and LISP in general).
 * [Leiningen](http://leiningen.org/)
 * [kibit](https://github.com/jonase/kibit)
 
-## Open Source Projects Collections 
+## Open Source Projects Collections
 * [ClojureWerkz: A growing collection of open source Clojure libraries](http://clojurewerkz.org/)
 * [The Clojure Toolbox](http://www.clojure-toolbox.com/)
 
-## Clojure Code Style 
+## Clojure Code Style
 * [A Community Driven Clojure Style Guide](https://github.com/bbatsov/clojure-style-guide#tooling)
 
 ## CheatSheets
