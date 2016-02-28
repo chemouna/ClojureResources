@@ -63,6 +63,7 @@ To Aggregate resources to learn and understand Clojure (and LISP in general).
 
 ## Functions 
 * [Clojure: partition-by, split-with, group-by, and juxt](http://blog.jayfields.com/2011/08/clojure-partition-by-split-with-group.html)
+* [Writing Elegant Clojure Code Using Higher-Order Functions](http://christophermaier.name/blog/2011/07/07/writing-elegant-clojure-code-using-higher-order-functions)
 
 ## Operations
 * [How to remember the difference between conj and cons in Clojure](http://bfontaine.net/blog/2014/05/25/how-to-remember-the-difference-between-conj-and-cons-in-clojure/)
@@ -125,3 +126,6 @@ To Aggregate resources to learn and understand Clojure (and LISP in general).
 * [Clojure Vs Scala #2](http://programming-puzzler.blogspot.fr/2013/12/clojure-vs-scala.html)
 * [Clojure Vs Racket](http://programming-puzzler.blogspot.fr/2010/08/racket-vs-clojure.html)
 * [The Beauty of Clojure](http://owenrh.me.uk/blog/2015/08/24/)
+
+## Blogs 
+* [Christopher Maier's Blog](http://christophermaier.name/)
