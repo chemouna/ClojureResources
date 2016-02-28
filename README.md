@@ -61,6 +61,9 @@ To Aggregate resources to learn and understand Clojure (and LISP in general).
 * [Some syntactic sugar for Clojure's threading macros](http://ianrumford.github.io/blog/2014/10/24/some-syntactic-sugar-for-clojure-threading-macros/).
 * [Thrush in Clojure](http://debasishg.blogspot.co.uk/2010/04/thrush-in-clojure.html).
 
+## Functions 
+* [Clojure: partition-by, split-with, group-by, and juxt](http://blog.jayfields.com/2011/08/clojure-partition-by-split-with-group.html)
+
 ## Operations
 * [How to remember the difference between conj and cons in Clojure](http://bfontaine.net/blog/2014/05/25/how-to-remember-the-difference-between-conj-and-cons-in-clojure/)
 
@@ -94,13 +97,18 @@ To Aggregate resources to learn and understand Clojure (and LISP in general).
 * [Lein-figwheel](https://github.com/bhauman/lein-figwheel)
 * [Om: ClojureScript interface to Facebook's React](https://github.com/omcljs/om)
 
-## Tools
+
+## Testing 
+* [Midje](https://github.com/marick/Midje)
+
+## Tools 
 * [Clojure with Emacs](http://clojure-doc.org/articles/tutorials/emacs.html)
 * [How to Use Emacs, an Excellent Clojure Editor](How to Use Emacs, an Excellent Clojure Editor)
 * [Getting Started With Cider Repl for Clojure on Emacs Live](http://jr0cket.co.uk/2015/01/getting-started-with-cider-repl-for-clojure-on-emacs-live.html)
 * [Building, Running, and the REPL](Building, Running, and the REPL)
 * [Leiningen](http://leiningen.org/)
 * [kibit](https://github.com/jonase/kibit)
+* [CrossClj: cross-referencing the Clojure ecosystem](https://crossclj.info/)
 
 ## Open Source Projects Collections
 * [ClojureWerkz: A growing collection of open source Clojure libraries](http://clojurewerkz.org/)
