@@ -71,6 +71,7 @@ To Aggregate resources to learn and understand Clojure (and LISP in general).
 
 ## Functions
 * [Clojure: Composing Functions](http://blog.jayfields.com/2010/07/clojure-composing-functions.html)
+* [Clojure: State Management](http://blog.jayfields.com/2011/04/clojure-state-management.html)
 
 ## Tutorials
 * [Clojure core.match tutorial](https://github.com/clojure/core.match/wiki/Overview).
