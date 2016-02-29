@@ -133,4 +133,4 @@ To Aggregate resources to learn and understand Clojure (and LISP in general).
 * [Christopher Maier's Blog](http://christophermaier.name/)
 * [Bozhidar Batsov's Blog](http://batsov.com/)
 * [Christopher Grand - Clojure and me](http://clj-me.cgrand.net/)
-
+* [Jay Fields' Thoughts](http://blog.jayfields.com/)
