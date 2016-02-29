@@ -18,7 +18,7 @@ To Aggregate resources to learn and understand Clojure (and LISP in general).
 ## Concepts
 * [Idempotence](https://en.wikipedia.org/wiki/Idempotence)
 * [being Lazy in clojure](http://noobtuts.com/clojure/being-lazy-in-clojure).
-
+* [Functional Programming](http://clojure.org/about/functional_programming)
 
 ## Data structures
 * [Getting Acquainted With Clojure Zippers](http://josf.info/blog/2014/03/21/getting-acquainted-with-clojure-zippers/).
@@ -45,6 +45,7 @@ To Aggregate resources to learn and understand Clojure (and LISP in general).
 * [Clojure from the ground up: basic types](https://aphyr.com/posts/302-clojure-from-the-ground-up-basic-types).
 * [Clojure from the ground up: functions](https://aphyr.com/posts/303-clojure-from-the-ground-up-functions).
 * [Specifying default slot values for defrecord classes in Clojure](http://cemerick.com/2010/08/02/defrecord-slot-defaults/)
+* [Counting occurences](http://clj-me.cgrand.net/2009/04/27/counting-occurences/)
 
 ## Why learn Clojure
 * [Clojure is not for geniuses](https://adambard.com/blog/clojure-is-not-for-geniuses/)
@@ -129,3 +130,6 @@ To Aggregate resources to learn and understand Clojure (and LISP in general).
 
 ## Blogs 
 * [Christopher Maier's Blog](http://christophermaier.name/)
+* [Bozhidar Batsov's Blog](http://batsov.com/)
+* [Christopher Grand - Clojure and me](http://clj-me.cgrand.net/)
+
