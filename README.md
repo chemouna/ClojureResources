@@ -135,3 +135,5 @@ To Aggregate resources to learn and understand Clojure (and LISP in general).
 * [Bozhidar Batsov's Blog](http://batsov.com/)
 * [Christopher Grand - Clojure and me](http://clj-me.cgrand.net/)
 * [Jay Fields' Thoughts](http://blog.jayfields.com/)
+* [Pingles: Blog of Paul Ingles](http://oobaloo.co.uk/)
+* [Inside Clojure : Alex Miller Blog](http://insideclojure.org/)
