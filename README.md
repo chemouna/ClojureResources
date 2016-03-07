@@ -29,6 +29,7 @@ To Aggregate resources to learn and understand Clojure (and LISP in general).
 ## Abstractions
 * [Protocols](http://clojure.org/reference/protocols).
 * [Multimethods and Hierarchies](http://clojure.org/reference/multimethods).
+* [Creating and Extending Abstractions with Multimethods, Protocols, and Records](http://www.braveclojure.com/multimethods-records-protocols/)
 
 ## Clojure's Special Forms
 * [:pre and :post](http://blog.fogus.me/2009/12/21/clojures-pre-and-post/)
