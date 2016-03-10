@@ -121,6 +121,9 @@ To Aggregate resources to learn and understand Clojure (and LISP in general).
 ## Clojure Code Style
 * [A Community Driven Clojure Style Guide](https://github.com/bbatsov/clojure-style-guide#tooling)
 
+## Core Async
+* [Comparing Core Async and Rx by Example](http://www.jayway.com/2014/09/16/comparing-core-async-and-rx-by-example/)
+x
 ## CheatSheets
 * [cider-cheatsheet](https://github.com/mlakewood/cider-cheatsheet)
 
