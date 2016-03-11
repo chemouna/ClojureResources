@@ -123,7 +123,8 @@ To Aggregate resources to learn and understand Clojure (and LISP in general).
 
 ## Core Async
 * [Comparing Core Async and Rx by Example](http://www.jayway.com/2014/09/16/comparing-core-async-and-rx-by-example/)
-x
+* [Clojure core.async Channels](http://clojure.com/blog/2013/06/28/clojure-core-async-channels.html)
+
 ## CheatSheets
 * [cider-cheatsheet](https://github.com/mlakewood/cider-cheatsheet)
 
