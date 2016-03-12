@@ -125,6 +125,7 @@ To Aggregate resources to learn and understand Clojure (and LISP in general).
 * [Comparing Core Async and Rx by Example](http://www.jayway.com/2014/09/16/comparing-core-async-and-rx-by-example/)
 * [Clojure core.async Channels](http://clojure.com/blog/2013/06/28/clojure-core-async-channels.html)
 * [Mastering Concurrent Processes with core.async](http://www.braveclojure.com/core-async/)
+* [Rock Paper Scissors with core.async](http://tech.puredanger.com/2013/07/10/rps-core-async/)
 
 ## CheatSheets
 * [cider-cheatsheet](https://github.com/mlakewood/cider-cheatsheet)
