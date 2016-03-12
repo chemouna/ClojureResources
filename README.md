@@ -63,7 +63,7 @@ To Aggregate resources to learn and understand Clojure (and LISP in general).
 * [Some syntactic sugar for Clojure's threading macros](http://ianrumford.github.io/blog/2014/10/24/some-syntactic-sugar-for-clojure-threading-macros/).
 * [Thrush in Clojure](http://debasishg.blogspot.co.uk/2010/04/thrush-in-clojure.html).
 
-## Functions 
+## Functions
 * [Clojure: partition-by, split-with, group-by, and juxt](http://blog.jayfields.com/2011/08/clojure-partition-by-split-with-group.html)
 * [Writing Elegant Clojure Code Using Higher-Order Functions](http://christophermaier.name/blog/2011/07/07/writing-elegant-clojure-code-using-higher-order-functions)
 
@@ -102,10 +102,10 @@ To Aggregate resources to learn and understand Clojure (and LISP in general).
 * [Om: ClojureScript interface to Facebook's React](https://github.com/omcljs/om)
 
 
-## Testing 
+## Testing
 * [Midje](https://github.com/marick/Midje)
 
-## Tools 
+## Tools
 * [Clojure with Emacs](http://clojure-doc.org/articles/tutorials/emacs.html)
 * [How to Use Emacs, an Excellent Clojure Editor](How to Use Emacs, an Excellent Clojure Editor)
 * [Getting Started With Cider Repl for Clojure on Emacs Live](http://jr0cket.co.uk/2015/01/getting-started-with-cider-repl-for-clojure-on-emacs-live.html)
@@ -124,6 +124,7 @@ To Aggregate resources to learn and understand Clojure (and LISP in general).
 ## Core Async
 * [Comparing Core Async and Rx by Example](http://www.jayway.com/2014/09/16/comparing-core-async-and-rx-by-example/)
 * [Clojure core.async Channels](http://clojure.com/blog/2013/06/28/clojure-core-async-channels.html)
+* [Mastering Concurrent Processes with core.async](http://www.braveclojure.com/core-async/)
 
 ## CheatSheets
 * [cider-cheatsheet](https://github.com/mlakewood/cider-cheatsheet)
@@ -134,7 +135,7 @@ To Aggregate resources to learn and understand Clojure (and LISP in general).
 * [Clojure Vs Racket](http://programming-puzzler.blogspot.fr/2010/08/racket-vs-clojure.html)
 * [The Beauty of Clojure](http://owenrh.me.uk/blog/2015/08/24/)
 
-## Blogs 
+## Blogs
 * [Christopher Maier's Blog](http://christophermaier.name/)
 * [Bozhidar Batsov's Blog](http://batsov.com/)
 * [Christopher Grand - Clojure and me](http://clj-me.cgrand.net/)
