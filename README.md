@@ -56,6 +56,7 @@ To Aggregate resources to learn and understand Clojure (and LISP in general).
 ## LISP
 * [Lisp: It's Not About Macros, It's About Read](http://jlongster.com/Lisp--It-s-Not-About-Macros,-It-s-About-Read).
 * [How to read mentally Lisp/Clojure code](http://stackoverflow.com/questions/1894209/how-to-read-mentally-lisp-clojure-code)
+* [It is not hard to read Lisp code](https://yoo2080.wordpress.com/2014/07/04/it-is-not-hard-to-read-lisp-code/)
 
 ## MACROS
 * [The Anatomy of a Clojure Macro](http://bryangilbert.com/blog/2013/07/30/anatomy-of-a-clojure-macro/).
