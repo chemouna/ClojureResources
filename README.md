@@ -33,6 +33,7 @@ To Aggregate resources to learn and understand Clojure (and LISP in general).
 
 ## Clojure's Special Forms
 * [:pre and :post](http://blog.fogus.me/2009/12/21/clojures-pre-and-post/)
+* [The let statement in Clojure](http://programming-pages.com/2012/01/21/the-let-keyword-in-clojure/)
 
 ## Clojure's Best Practices
 * [Record Constructors](http://stuartsierra.com/2015/05/17/clojure-record-constructors)
