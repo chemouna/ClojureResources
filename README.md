@@ -107,6 +107,7 @@ To Aggregate resources to learn and understand Clojure (and LISP in general).
 
 ## Testing
 * [Midje](https://github.com/marick/Midje)
+* [ClojureCheck](https://bitbucket.org/kotarak/clojurecheck)
 
 ## Tools
 * [Clojure with Emacs](http://clojure-doc.org/articles/tutorials/emacs.html)
