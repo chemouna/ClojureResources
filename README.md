@@ -62,6 +62,7 @@ To Aggregate resources to learn and understand Clojure (and LISP in general).
 * [Clojure Macro Explorations of cond->](http://fhf.org/archives/766)
 * [Some syntactic sugar for Clojure's threading macros](http://ianrumford.github.io/blog/2014/10/24/some-syntactic-sugar-for-clojure-threading-macros/).
 * [Thrush in Clojure](http://debasishg.blogspot.co.uk/2010/04/thrush-in-clojure.html).
+* [Clojure Explained - Macros demystified](http://lambdax.io/blog/posts/2016-03-07-macros-explained.html)
 
 ## Functions
 * [Clojure: partition-by, split-with, group-by, and juxt](http://blog.jayfields.com/2011/08/clojure-partition-by-split-with-group.html)
