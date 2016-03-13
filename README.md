@@ -99,6 +99,7 @@ To Aggregate resources to learn and understand Clojure (and LISP in general).
 * [core.logic](https://github.com/clojure/core.logic).
 * [kibit](https://github.com/jonase/kibit/).
 * [Schema](https://github.com/plumatic/schema)
+* [clojure.math.numeric-tower](https://github.com/clojure/math.numeric-tower)
 
 ## Web developement
 * [Compojure](https://github.com/weavejester/compojure/)
@@ -150,3 +151,4 @@ To Aggregate resources to learn and understand Clojure (and LISP in general).
 * [Jay Fields' Thoughts](http://blog.jayfields.com/)
 * [Pingles: Blog of Paul Ingles](http://oobaloo.co.uk/)
 * [Inside Clojure : Alex Miller Blog](http://insideclojure.org/)
+* [gtrak collimator blog](https://gtrak.wordpress.com/)
