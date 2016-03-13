@@ -55,6 +55,7 @@ To Aggregate resources to learn and understand Clojure (and LISP in general).
 
 ## LISP
 * [Lisp: It's Not About Macros, It's About Read](http://jlongster.com/Lisp--It-s-Not-About-Macros,-It-s-About-Read).
+* [How to read mentally Lisp/Clojure code](http://stackoverflow.com/questions/1894209/how-to-read-mentally-lisp-clojure-code)
 
 ## MACROS
 * [The Anatomy of a Clojure Macro](http://bryangilbert.com/blog/2013/07/30/anatomy-of-a-clojure-macro/).
@@ -64,7 +65,7 @@ To Aggregate resources to learn and understand Clojure (and LISP in general).
 * [Thrush in Clojure](http://debasishg.blogspot.co.uk/2010/04/thrush-in-clojure.html).
 * [Clojure Explained - Macros demystified](http://lambdax.io/blog/posts/2016-03-07-macros-explained.html)
 * [What makes lisp macros so special](http://stackoverflow.com/questions/267862/what-makes-lisp-macros-so-special)
-
+* [Why Lisp macros are cool, a Perl perspective](http://lists.warhead.org.uk/pipermail/iwe/2005-July/000130.html)
 
 ## Functions
 * [Clojure: partition-by, split-with, group-by, and juxt](http://blog.jayfields.com/2011/08/clojure-partition-by-split-with-group.html)
