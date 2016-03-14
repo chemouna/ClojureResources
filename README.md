@@ -32,7 +32,7 @@ To Aggregate resources to learn and understand Clojure (and LISP in general).
 * [Creating and Extending Abstractions with Multimethods, Protocols, and Records](http://www.braveclojure.com/multimethods-records-protocols/)
 * [Random thoughts on Clojure Protocols](http://debasishg.blogspot.fr/2010/08/random-thoughts-on-clojure-protocols.html)
 * [Protocols in ClojureScript](http://davedellacosta.com/cljs-protocols)
-
+* [Solving the Expression Problem with Clojure 1.2](http://www.ibm.com/developerworks/library/j-clojure-protocols/)
 
 ## Clojure's Special Forms
 * [:pre and :post](http://blog.fogus.me/2009/12/21/clojures-pre-and-post/)
@@ -96,7 +96,7 @@ To Aggregate resources to learn and understand Clojure (and LISP in general).
 * [Clojure client for Twitter API](https://github.com/mattrepl/clojure-twitter).
 
 ## Libraries
-* [https://github.com/owainlewis/clojure-mail](https://github.com/owainlewis/clojure-mail).
+* [clojure-mail](https://github.com/owainlewis/clojure-mail).
 * [A library for reading and writing CSV files from Clojure](https://github.com/davidsantiago/clojure-csv).
 * [tools.cli](https://github.com/clojure/tools.cli).
 * [core.match](https://github.com/clojure/core.match).
