@@ -106,6 +106,8 @@ To Aggregate resources to learn and understand Clojure (and LISP in general).
 * [Schema](https://github.com/plumatic/schema)
 * [clojure.math.numeric-tower](https://github.com/clojure/math.numeric-tower)
 * [Codox: A tool for generating API documentation](https://github.com/weavejester/codox)
+* [Fluokitten: Category theory concepts in Clojure - Functors, Applicatives, Monads, Monoids and more](http://fluokitten.uncomplicate.org/)
+* [Quil: Clojure/ClojureScript library for creating interactive drawings and animations.](https://github.com/quil/quil)
 
 ## Web developement
 * [Compojure](https://github.com/weavejester/compojure/)
@@ -130,6 +132,7 @@ To Aggregate resources to learn and understand Clojure (and LISP in general).
 ## Open Source Projects Collections
 * [ClojureWerkz: A growing collection of open source Clojure libraries](http://clojurewerkz.org/)
 * [The Clojure Toolbox](http://www.clojure-toolbox.com/)
+* [Open source clojure projects](http://open-source.braveclojure.com/)
 
 ## Clojure Code Style
 * [A Community Driven Clojure Style Guide](https://github.com/bbatsov/clojure-style-guide#tooling)
