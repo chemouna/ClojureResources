@@ -147,6 +147,9 @@ To Aggregate resources to learn and understand Clojure (and LISP in general).
 * [async-tests: Having fun with core.async](https://github.com/swannodette/async-tests)
 * [Clojure core.async and Go: A Code Comparison](https://blog.drewolson.org/clojure-go-comparison/)
 
+## Core logic 
+* [Logic programming is overrated](http://programming-puzzler.blogspot.fr/2013/03/logic-programming-is-overrated.html)
+
 ## CheatSheets
 * [cider-cheatsheet](https://github.com/mlakewood/cider-cheatsheet)
 
@@ -167,3 +170,4 @@ To Aggregate resources to learn and understand Clojure (and LISP in general).
 * [Chas Emerick](http://cemerick.com/)
 * [Digital Digressions by Stuart Sierra](https://stuartsierra.com/)
 * [michael fogus](http://blog.fogus.me/)
+* [Thoughts on Programming](http://programming-puzzler.blogspot.fr/)
