@@ -149,6 +149,7 @@ To Aggregate resources to learn and understand Clojure (and LISP in general).
 
 ## Core logic 
 * [Logic programming is overrated](http://programming-puzzler.blogspot.fr/2013/03/logic-programming-is-overrated.html)
+* [Logic Programming is Underrated: David Nolen response](http://swannodette.github.io/2013/03/09/logic-programming-is-underrated/)
 
 ## CheatSheets
 * [cider-cheatsheet](https://github.com/mlakewood/cider-cheatsheet)
