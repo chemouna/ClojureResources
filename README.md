@@ -131,6 +131,8 @@ To Aggregate resources to learn and understand Clojure (and LISP in general).
 * [Leiningen](http://leiningen.org/)
 * [kibit](https://github.com/jonase/kibit)
 * [CrossClj: cross-referencing the Clojure ecosystem](https://crossclj.info/)
+* [Give your clojure workflow more flow](http://z.caudate.me/give-your-clojure-workflow-more-flow/)
+
 
 ## Open Source Projects Collections
 * [ClojureWerkz: A growing collection of open source Clojure libraries](http://clojurewerkz.org/)
@@ -176,3 +178,4 @@ To Aggregate resources to learn and understand Clojure (and LISP in general).
 * [Digital Digressions by Stuart Sierra](https://stuartsierra.com/)
 * [michael fogus](http://blog.fogus.me/)
 * [Thoughts on Programming](http://programming-puzzler.blogspot.fr/)
+* [clj.orcery by Chris Zheng](http://z.caudate.me/)
