@@ -115,10 +115,13 @@ To Aggregate resources to learn and understand Clojure (and LISP in general).
 * [Lein-figwheel](https://github.com/bhauman/lein-figwheel)
 * [Om: ClojureScript interface to Facebook's React](https://github.com/omcljs/om)
 
-
 ## Testing
 * [Midje](https://github.com/marick/Midje)
 * [ClojureCheck](https://bitbucket.org/kotarak/clojurecheck)
+
+## Debugging 
+* [Spyscope](https://github.com/dgrnbrg/spyscope)
+
 
 ## Tools
 * [Clojure with Emacs](http://clojure-doc.org/articles/tutorials/emacs.html)
