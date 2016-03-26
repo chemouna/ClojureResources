@@ -14,6 +14,7 @@ To Aggregate resources to learn and understand Clojure (and LISP in general).
 * [Clojure Contrib Library API Docs](http://clojure.github.io/).
 * [Clojure reader](http://clojure.org/reader).
 * [Clojure Distilled](http://yogthos.github.io/ClojureDistilled.html).
+* [Decomplecting Clojure](http://bensu.github.io/decomplecting_clojure/)
 
 ## Concepts
 * [Idempotence](https://en.wikipedia.org/wiki/Idempotence)
