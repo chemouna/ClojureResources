@@ -33,6 +33,9 @@ To Aggregate resources to learn and understand Clojure (and LISP in general).
 * [Random thoughts on Clojure Protocols](http://debasishg.blogspot.fr/2010/08/random-thoughts-on-clojure-protocols.html)
 * [Protocols in ClojureScript](http://davedellacosta.com/cljs-protocols)
 * [Solving the Expression Problem with Clojure 1.2](http://www.ibm.com/developerworks/library/j-clojure-protocols/)
+* [Nil Punning (Or Null Pointers Considered Not So Bad)](http://www.lispcast.com/nil-punning)
+* [An interesting discussion about Nil punning](https://groups.google.com/forum/?fromgroups=#!topic/clojure/gWvXoHa7-t4)
+
 
 ## Clojure's Special Forms
 * [:pre and :post](http://blog.fogus.me/2009/12/21/clojures-pre-and-post/)
@@ -190,3 +193,4 @@ To Aggregate resources to learn and understand Clojure (and LISP in general).
 * [michael fogus](http://blog.fogus.me/)
 * [Thoughts on Programming](http://programming-puzzler.blogspot.fr/)
 * [clj.orcery by Chris Zheng](http://z.caudate.me/)
+* [LispCast](http://www.lispcast.com/)
