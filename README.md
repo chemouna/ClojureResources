@@ -114,6 +114,12 @@ To Aggregate resources to learn and understand Clojure (and LISP in general).
 * [ClojureScript](https://github.com/clojure/clojurescript)
 * [Lein-figwheel](https://github.com/bhauman/lein-figwheel)
 * [Om: ClojureScript interface to Facebook's React](https://github.com/omcljs/om)
+* [Chestnut: Application template for ClojureScript/Om with live reloading](https://github.com/plexus/chestnut)
+* [Weasel: ClojureScript browser REPL using WebSockets](https://github.com/tomjakubowski/weasel)
+* [Austin: The ClojureScript browser-REPL rebuilt stronger, faster, easier](https://github.com/cemerick/austin)
+* [Ring: Clojure HTTP server abstraction](https://github.com/ring-clojure/ring)
+* [Compojure: A concise routing library for Ring/Clojure](https://github.com/weavejester/compojure)
+* [Enlive: a selector-based (à la CSS) templating and transformation system for Clojure](https://github.com/cgrand/enlive)
 
 ## Testing
 * [Midje](https://github.com/marick/Midje)
