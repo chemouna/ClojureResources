@@ -122,6 +122,7 @@ To Aggregate resources to learn and understand Clojure (and LISP in general).
 ## Debugging 
 * [Spyscope](https://github.com/dgrnbrg/spyscope)
 * [Debugging in Clojure: Tools](http://brownsofa.org/blog/2014/08/03/debugging-in-clojure-tools/)
+* [Clojure Stack Traces for the Uninitiated](https://blog.8thlight.com/connor-mendenhall/2014/09/12/clojure-stacktraces.html)
 
 ## Tools
 * [Clojure with Emacs](http://clojure-doc.org/articles/tutorials/emacs.html)
