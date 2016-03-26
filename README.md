@@ -118,11 +118,14 @@ To Aggregate resources to learn and understand Clojure (and LISP in general).
 ## Testing
 * [Midje](https://github.com/marick/Midje)
 * [ClojureCheck](https://bitbucket.org/kotarak/clojurecheck)
+* [QuickCheck for Clojure](https://github.com/clojure/test.check)
 
 ## Debugging 
 * [Spyscope](https://github.com/dgrnbrg/spyscope)
 * [Debugging in Clojure: Tools](http://brownsofa.org/blog/2014/08/03/debugging-in-clojure-tools/)
 * [Clojure Stack Traces for the Uninitiated](https://blog.8thlight.com/connor-mendenhall/2014/09/12/clojure-stacktraces.html)
+* [Reading Clojure Stacktraces](http://blog.jayfields.com/2012/06/reading-clojure-stacktraces.html)
+* [More readable stacktraces for Clojure](https://github.com/mmcgrana/clj-stacktrace)
 
 ## Tools
 * [Clojure with Emacs](http://clojure-doc.org/articles/tutorials/emacs.html)
@@ -133,7 +136,7 @@ To Aggregate resources to learn and understand Clojure (and LISP in general).
 * [kibit](https://github.com/jonase/kibit)
 * [CrossClj: cross-referencing the Clojure ecosystem](https://crossclj.info/)
 * [Give your clojure workflow more flow](http://z.caudate.me/give-your-clojure-workflow-more-flow/)
-
+* [Alembic - a library to control your classpath](http://palletops.com/alembic-clojure-classpath-control/)
 
 ## Open Source Projects Collections
 * [ClojureWerkz: A growing collection of open source Clojure libraries](http://clojurewerkz.org/)
