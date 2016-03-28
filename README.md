@@ -80,9 +80,12 @@ To Aggregate resources to learn and understand Clojure (and LISP in general).
 ## Functions
 * [Clojure: partition-by, split-with, group-by, and juxt](http://blog.jayfields.com/2011/08/clojure-partition-by-split-with-group.html)
 * [Writing Elegant Clojure Code Using Higher-Order Functions](http://christophermaier.name/blog/2011/07/07/writing-elegant-clojure-code-using-higher-order-functions)
+* ["Good Enough" error handling in Clojure](https://adambard.com/blog/acceptable-error-handling-in-clojure/)
+
 
 ## Operations
 * [How to remember the difference between conj and cons in Clojure](http://bfontaine.net/blog/2014/05/25/how-to-remember-the-difference-between-conj-and-cons-in-clojure/)
+
 
 ## Functions
 * [Clojure: Composing Functions](http://blog.jayfields.com/2010/07/clojure-composing-functions.html)
