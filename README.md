@@ -83,8 +83,9 @@ To Aggregate resources to learn and understand Clojure (and LISP in general).
 * ["Good Enough" error handling in Clojure](https://adambard.com/blog/acceptable-error-handling-in-clojure/)
 
 
-## Operations
+## API
 * [How to remember the difference between conj and cons in Clojure](http://bfontaine.net/blog/2014/05/25/how-to-remember-the-difference-between-conj-and-cons-in-clojure/)
+* [The Weird and Wonderful Characters of Clojure](https://yobriefca.se/blog/2014/05/19/the-weird-and-wonderful-characters-of-clojure/)
 
 
 ## Functions
