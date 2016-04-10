@@ -83,6 +83,7 @@ To Aggregate resources to learn and understand Clojure (and LISP in general).
 * ["Good Enough" error handling in Clojure](https://adambard.com/blog/acceptable-error-handling-in-clojure/)
 * [Understanding Clojure’s Reduce Function](http://ryanverner.com/post/36567417225/understanding-clojures-reduce-function)
 * [Clojure: Apply a Function To Each Value of a Map](http://blog.jayfields.com/2011/08/clojure-apply-function-to-each-value-of.html)
+* [Hand-Rolling Flatten: Coming to Grips with Tree-Seq](http://rmulhol.github.io/clojure/2015/05/12/flatten-tree-seq.html)
 
 ## API
 * [How to remember the difference between conj and cons in Clojure](http://bfontaine.net/blog/2014/05/25/how-to-remember-the-difference-between-conj-and-cons-in-clojure/)
