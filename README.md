@@ -94,6 +94,8 @@ To Aggregate resources to learn and understand Clojure (and LISP in general).
 * [Clojure: Composing Functions](http://blog.jayfields.com/2010/07/clojure-composing-functions.html)
 * [Clojure: State Management](http://blog.jayfields.com/2011/04/clojure-state-management.html)
 * [Writing Elegant Clojure Code Using Higher-Order Functions](http://christophermaier.name/blog/2011/07/07/writing-elegant-clojure-code-using-higher-order-functions)
+* [Clojure: Avoiding Anonymous Functions](http://blog.jayfields.com/2012/10/clojure-avoiding-anonymous-functions.html)
+
 
 ## Tutorials
 * [Clojure core.match tutorial](https://github.com/clojure/core.match/wiki/Overview).
