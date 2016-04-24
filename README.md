@@ -135,7 +135,6 @@ To Aggregate resources to learn and understand Clojure (and LISP in general).
 * [Compojure: A concise routing library for Ring/Clojure](https://github.com/weavejester/compojure)
 * [Enlive: a selector-based (à la CSS) templating and transformation system for Clojure](https://github.com/cgrand/enlive)
 * [ClojureScript: Differences from Clojure](https://github.com/clojure/clojurescript/wiki/Differences-from-Clojure)
-* [Clojure HTTP server abstraction](https://github.com/ring-clojure/ring)
 
 ## Testing
 * [Midje](https://github.com/marick/Midje)
