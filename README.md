@@ -122,8 +122,13 @@ To Aggregate resources to learn and understand Clojure (and LISP in general).
 * [Codox: A tool for generating API documentation](https://github.com/weavejester/codox)
 * [Fluokitten: Category theory concepts in Clojure - Functors, Applicatives, Monads, Monoids and more](http://fluokitten.uncomplicate.org/)
 * [Quil: Clojure/ClojureScript library for creating interactive drawings and animations.](https://github.com/quil/quil)
+* [Component: Managed lifecycle of stateful objects in Clojure](https://github.com/stuartsierra/component)
 
-## Web developement
+## Server/Web developement Learning
+* [Getting a web server up and running with Compojure](http://kendru.github.io/restful-clojure/2014/02/19/getting-a-web-server-up-and-running-with-compojure-restful-clojure-part-2/)
+
+
+## Server/Web developement Projects
 * [Compojure](https://github.com/weavejester/compojure/)
 * [ClojureScript](https://github.com/clojure/clojurescript)
 * [Lein-figwheel](https://github.com/bhauman/lein-figwheel)
@@ -132,6 +137,7 @@ To Aggregate resources to learn and understand Clojure (and LISP in general).
 * [Weasel: ClojureScript browser REPL using WebSockets](https://github.com/tomjakubowski/weasel)
 * [Austin: The ClojureScript browser-REPL rebuilt stronger, faster, easier](https://github.com/cemerick/austin)
 * [Ring: Clojure HTTP server abstraction](https://github.com/ring-clojure/ring)
+* [lein-ring: Ring plugin for Leiningen](https://github.com/weavejester/lein-ring)
 * [Compojure: A concise routing library for Ring/Clojure](https://github.com/weavejester/compojure)
 * [Enlive: a selector-based (à la CSS) templating and transformation system for Clojure](https://github.com/cgrand/enlive)
 * [ClojureScript: Differences from Clojure](https://github.com/clojure/clojurescript/wiki/Differences-from-Clojure)
