@@ -49,6 +49,7 @@ To Aggregate resources to learn and understand Clojure (and LISP in general).
 
 ## Clojure Namespaces
 * [Clojure Libs and Namespaces: require, use, import, and ns](https://blog.8thlight.com/colin-jones/2010/12/05/clojure-libs-and-namespaces-require-use-import-and-ns.html)
+* [lein plugin to Show namespace dependencies of Clojure project sources as a graph](https://github.com/hilverd/lein-ns-dep-graph)
 
 ## Interesting Blog Posts
 * [Quoting Without Confusion](https://blog.8thlight.com/colin-jones/2012/05/22/quoting-without-confusion.html).
@@ -56,6 +57,7 @@ To Aggregate resources to learn and understand Clojure (and LISP in general).
 * [Clojure from the ground up: functions](https://aphyr.com/posts/303-clojure-from-the-ground-up-functions).
 * [Specifying default slot values for defrecord classes in Clojure](http://cemerick.com/2010/08/02/defrecord-slot-defaults/)
 * [Counting occurences](http://clj-me.cgrand.net/2009/04/27/counting-occurences/)
+* [Gin Rummy with Datomic](http://thegeez.net/2014/06/12/gin_datomic.html)
 
 ## Why learn Clojure
 * [Clojure is not for geniuses](https://adambard.com/blog/clojure-is-not-for-geniuses/)
@@ -141,6 +143,8 @@ To Aggregate resources to learn and understand Clojure (and LISP in general).
 * [Compojure: A concise routing library for Ring/Clojure](https://github.com/weavejester/compojure)
 * [Enlive: a selector-based (à la CSS) templating and transformation system for Clojure](https://github.com/cgrand/enlive)
 * [ClojureScript: Differences from Clojure](https://github.com/clojure/clojurescript/wiki/Differences-from-Clojure)
+* [clj-browserchannel](https://github.com/kirasystems/clj-browserchannel.git)
+
 
 ## Testing
 * [Midje](https://github.com/marick/Midje)
@@ -211,3 +215,4 @@ To Aggregate resources to learn and understand Clojure (and LISP in general).
 * [Thoughts on Programming](http://programming-puzzler.blogspot.fr/)
 * [clj.orcery by Chris Zheng](http://z.caudate.me/)
 * [LispCast](http://www.lispcast.com/)
+* [λ thegeez blog](http://thegeez.net/)
