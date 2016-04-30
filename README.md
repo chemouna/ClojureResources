@@ -153,6 +153,8 @@ To Aggregate resources to learn and understand Clojure (and LISP in general).
 * [QuickCheck for Clojure](https://github.com/clojure/test.check)
 * [test.generative](https://github.com/clojure/test.generative)
 * [TDD Workflow in Clojure using Emacs with CIDER](http://www.lispcast.com/tdd-workflow-in-clojure-with-emacs-and-cider)
+* [lein-test-refresh: Refreshes and reruns clojure.tests in your project
+](https://github.com/jakemcc/lein-test-refresh)
 
 ## Debugging 
 * [Spyscope](https://github.com/dgrnbrg/spyscope)
