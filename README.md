@@ -151,6 +151,8 @@ To Aggregate resources to learn and understand Clojure (and LISP in general).
 * [Midje](https://github.com/marick/Midje)
 * [ClojureCheck](https://bitbucket.org/kotarak/clojurecheck)
 * [QuickCheck for Clojure](https://github.com/clojure/test.check)
+* [test.generative](https://github.com/clojure/test.generative)
+* [TDD Workflow in Clojure using Emacs with CIDER](http://www.lispcast.com/tdd-workflow-in-clojure-with-emacs-and-cider)
 
 ## Debugging 
 * [Spyscope](https://github.com/dgrnbrg/spyscope)
