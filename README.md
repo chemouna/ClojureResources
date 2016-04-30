@@ -222,3 +222,4 @@ To Aggregate resources to learn and understand Clojure (and LISP in general).
 * [clj.orcery by Chris Zheng](http://z.caudate.me/)
 * [LispCast](http://www.lispcast.com/)
 * [λ thegeez blog](http://thegeez.net/)
+* [Kotka Logo clojure tools » fine made & hand crafted](http://kotka.de/blog/index.html)
