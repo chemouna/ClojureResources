@@ -50,6 +50,7 @@ To Aggregate resources to learn and understand Clojure (and LISP in general).
 ## Clojure Namespaces
 * [Clojure Libs and Namespaces: require, use, import, and ns](https://blog.8thlight.com/colin-jones/2010/12/05/clojure-libs-and-namespaces-require-use-import-and-ns.html)
 * [lein plugin to Show namespace dependencies of Clojure project sources as a graph](https://github.com/hilverd/lein-ns-dep-graph)
+* [Clojure Do’s: Namespace Aliases](https://stuartsierra.com/2015/05/10/clojure-namespace-aliases)
 
 ## Interesting Blog Posts
 * [Quoting Without Confusion](https://blog.8thlight.com/colin-jones/2012/05/22/quoting-without-confusion.html).
