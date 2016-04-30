@@ -169,6 +169,9 @@ To Aggregate resources to learn and understand Clojure (and LISP in general).
 * [Give your clojure workflow more flow](http://z.caudate.me/give-your-clojure-workflow-more-flow/)
 * [Alembic - a library to control your classpath](http://palletops.com/alembic-clojure-classpath-control/)
 
+## Emacs 
+* [Configuring Spacemacs: A Tutorial](http://thume.ca/howto/2015/03/07/configuring-spacemacs-a-tutorial/)
+
 ## Open Source Projects Collections
 * [ClojureWerkz: A growing collection of open source Clojure libraries](http://clojurewerkz.org/)
 * [The Clojure Toolbox](http://www.clojure-toolbox.com/)
