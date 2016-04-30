@@ -155,6 +155,7 @@ To Aggregate resources to learn and understand Clojure (and LISP in general).
 * [TDD Workflow in Clojure using Emacs with CIDER](http://www.lispcast.com/tdd-workflow-in-clojure-with-emacs-and-cider)
 * [lein-test-refresh: Refreshes and reruns clojure.tests in your project
 ](https://github.com/jakemcc/lein-test-refresh)
+* [collection-check: fuzz testing for alternate clojure data structures](https://github.com/ztellman/collection-check)
 
 ## Debugging 
 * [Spyscope](https://github.com/dgrnbrg/spyscope)
