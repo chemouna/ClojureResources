@@ -126,7 +126,8 @@ To Aggregate resources to learn and understand Clojure (and LISP in general).
 * [Fluokitten: Category theory concepts in Clojure - Functors, Applicatives, Monads, Monoids and more](http://fluokitten.uncomplicate.org/)
 * [Quil: Clojure/ClojureScript library for creating interactive drawings and animations.](https://github.com/quil/quil)
 * [Component: Managed lifecycle of stateful objects in Clojure](https://github.com/stuartsierra/component)
-
+* [data.generators: Random data generators](https://github.com/clojure/data.generators)
+  
 ## Server/Web developement Learning
 * [Getting a web server up and running with Compojure](http://kendru.github.io/restful-clojure/2014/02/19/getting-a-web-server-up-and-running-with-compojure-restful-clojure-part-2/)
 
