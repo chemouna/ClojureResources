@@ -204,6 +204,9 @@ To Aggregate resources to learn and understand Clojure (and LISP in general).
 * [Logic Programming is Underrated: David Nolen response](http://swannodette.github.io/2013/03/09/logic-programming-is-underrated/)
 * [A Core.logic Primer](https://github.com/clojure/core.logic/wiki/A-Core.logic-Primer)
 
+## Interesting blog posts
+* [Writing simple-check](http://reiddraper.com/writing-simple-check/)
+
 ## CheatSheets
 * [cider-cheatsheet](https://github.com/mlakewood/cider-cheatsheet)
 
