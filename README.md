@@ -16,6 +16,10 @@ To Aggregate resources to learn and understand Clojure (and LISP in general).
 * [Clojure Distilled](http://yogthos.github.io/ClojureDistilled.html).
 * [Decomplecting Clojure](http://bensu.github.io/decomplecting_clojure/)
 
+## Learning Clojure 
+* [Brave Clojure](http://www.braveclojure.com/)
+* [4Clojure](https://www.4clojure.com/)
+
 ## Concepts
 * [Idempotence](https://en.wikipedia.org/wiki/Idempotence)
 * [being Lazy in clojure](http://noobtuts.com/clojure/being-lazy-in-clojure).
