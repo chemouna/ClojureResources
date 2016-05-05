@@ -136,6 +136,7 @@ To Aggregate resources to learn and understand Clojure (and LISP in general).
 
 ## Server/Web developement Learning
 * [Getting a web server up and running with Compojure](http://kendru.github.io/restful-clojure/2014/02/19/getting-a-web-server-up-and-running-with-compojure-restful-clojure-part-2/)
+* [My experiences deploying a small Clojure+MongoDB app on Heroku and MongoHQ](https://adambard.com/blog/my-experiences-deploying-a-small-clojuremongo/)
 
 
 ## Server/Web developement Projects
@@ -153,6 +154,11 @@ To Aggregate resources to learn and understand Clojure (and LISP in general).
 * [ClojureScript: Differences from Clojure](https://github.com/clojure/clojurescript/wiki/Differences-from-Clojure)
 * [clj-browserchannel](https://github.com/kirasystems/clj-browserchannel.git)
 
+## Databases 
+* [Korma: Tasty SQL for Clojure](http://sqlkorma.com/docs)
+* [Monger: Clojure MongoDB client](http://clojuremongodb.info/)
+* [Clojure bindings for LevelDB](https://github.com/Factual/clj-leveldb)
+* [DynamoDB API for Clojure](https://github.com/weavejester/rotary)
 
 ## Testing
 * [Midje](https://github.com/marick/Midje)
