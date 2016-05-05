@@ -208,6 +208,11 @@ To Aggregate resources to learn and understand Clojure (and LISP in general).
 * [Logic Programming is Underrated: David Nolen response](http://swannodette.github.io/2013/03/09/logic-programming-is-underrated/)
 * [A Core.logic Primer](https://github.com/clojure/core.logic/wiki/A-Core.logic-Primer)
 
+## Datomic 
+* [Datomic](http://www.datomic.com/)
+* [Datomic Free](https://my.datomic.com/downloads/free)
+* [A Heroku buildpack to start Datomic using a worker](https://github.com/opengrail/heroku-buildpack-datomic)
+
 ## Interesting blog posts
 * [Writing simple-check](http://reiddraper.com/writing-simple-check/)
 
