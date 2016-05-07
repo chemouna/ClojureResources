@@ -138,6 +138,8 @@ To Aggregate resources to learn and understand Clojure (and LISP in general).
 * [Getting a web server up and running with Compojure](http://kendru.github.io/restful-clojure/2014/02/19/getting-a-web-server-up-and-running-with-compojure-restful-clojure-part-2/)
 * [My experiences deploying a small Clojure+MongoDB app on Heroku and MongoHQ](https://adambard.com/blog/my-experiences-deploying-a-small-clojuremongo/)
 * [What's the “big idea” behind compojure routes?](http://stackoverflow.com/questions/3488353/whats-the-big-idea-behind-compojure-routes)
+* [Clojure Web Programming and Ring](http://fhf.org/archives/739)
+* [Understanding Routing in Compojure](https://www.booleanknot.com/blog/2012/09/18/routing-in-compojure.html)
 
 ## Server/Web developement Projects
 * [Compojure](https://github.com/weavejester/compojure/)
@@ -200,6 +202,7 @@ To Aggregate resources to learn and understand Clojure (and LISP in general).
 * [ClojureWerkz: A growing collection of open source Clojure libraries](http://clojurewerkz.org/)
 * [The Clojure Toolbox](http://www.clojure-toolbox.com/)
 * [Open source clojure projects](http://open-source.braveclojure.com/)
+
 
 ## Clojure Code Style
 * [A Community Driven Clojure Style Guide](https://github.com/bbatsov/clojure-style-guide#tooling)
