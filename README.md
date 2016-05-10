@@ -41,7 +41,6 @@ To Aggregate resources to learn and understand Clojure (and LISP in general).
 * [Nil Punning (Or Null Pointers Considered Not So Bad)](http://www.lispcast.com/nil-punning)
 * [An interesting discussion about Nil punning](https://groups.google.com/forum/?fromgroups=#!topic/clojure/gWvXoHa7-t4)
 
-
 ## Clojure's Special Forms
 * [:pre and :post](http://blog.fogus.me/2009/12/21/clojures-pre-and-post/)
 * [The let statement in Clojure](http://programming-pages.com/2012/01/21/the-let-keyword-in-clojure/)
@@ -105,10 +104,8 @@ To Aggregate resources to learn and understand Clojure (and LISP in general).
 * [Clojure: Avoiding Anonymous Functions](http://blog.jayfields.com/2012/10/clojure-avoiding-anonymous-functions.html)
 * [Implementing Map in Clojure](http://commandercoriander.net/blog/2014/10/26/Implementing-Map-in-Clojure/)
 
-
 ## Tutorials
 * [Clojure core.match tutorial](https://github.com/clojure/core.match/wiki/Overview).
-
 
 ## Cheat Sheets
 * [Clojure 1.7 Cheat Sheet (v32)](http://clojure.org/api/cheatsheet).
