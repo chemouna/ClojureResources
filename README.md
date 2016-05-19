@@ -136,7 +136,7 @@ To Aggregate resources to learn and understand Clojure (and LISP in general).
 * [Clojure Web Programming and Ring](http://fhf.org/archives/739)
 * [Understanding Routing in Compojure](https://www.booleanknot.com/blog/2012/09/18/routing-in-compojure.html)
 
-## Server/Web developement Projects
+## Server/Web development Projects
 * [Compojure](https://github.com/weavejester/compojure/)
 * [ClojureScript](https://github.com/clojure/clojurescript)
 * [Lein-figwheel](https://github.com/bhauman/lein-figwheel)
@@ -152,6 +152,7 @@ To Aggregate resources to learn and understand Clojure (and LISP in general).
 * [Enlive: a selector-based (à la CSS) templating and transformation system for Clojure](https://github.com/cgrand/enlive)
 * [ClojureScript: Differences from Clojure](https://github.com/clojure/clojurescript/wiki/Differences-from-Clojure)
 * [clj-browserchannel](https://github.com/kirasystems/clj-browserchannel.git)
+* [Luminus - a Clojure web framework](http://www.luminusweb.net/)
 
 ## Databases 
 * [Korma: Tasty SQL for Clojure](http://sqlkorma.com/docs)
@@ -253,4 +254,4 @@ To Aggregate resources to learn and understand Clojure (and LISP in general).
 * [James Reeves's Blog - booleanknot](https://www.booleanknot.com/blog/)
 * [Mark McGranaghan's Blog](https://mmcgrana.github.io/)
 * [spootnik: Pierre-Yves Ritschard's Blog](http://spootnik.org/)
-
+* [Dmitri Sotnikov's (iterate think thoughts)](https://yogthos.net/) 
