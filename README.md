@@ -162,7 +162,6 @@ To Aggregate resources to learn and understand Clojure (and LISP in general).
 * [congomongo: Clojure wrapper for the mongo-db java api](https://github.com/aboekhoff/congomongo)
 * [monger: Monger is an idiomatic Clojure MongoDB driver](https://github.com/michaelklishin/monger)
 
-
 ## Testing
 * [Midje](https://github.com/marick/Midje)
 * [ClojureCheck](https://bitbucket.org/kotarak/clojurecheck)
@@ -198,7 +197,6 @@ To Aggregate resources to learn and understand Clojure (and LISP in general).
 * [ClojureWerkz: A growing collection of open source Clojure libraries](http://clojurewerkz.org/)
 * [The Clojure Toolbox](http://www.clojure-toolbox.com/)
 * [Open source clojure projects](http://open-source.braveclojure.com/)
-
 
 ## Clojure Code Style
 * [A Community Driven Clojure Style Guide](https://github.com/bbatsov/clojure-style-guide#tooling)
