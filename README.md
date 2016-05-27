@@ -194,6 +194,7 @@ To Aggregate resources to learn and understand Clojure (and LISP in general).
 * [cljfmt: A tool for formatting Clojure code](https://github.com/weavejester/cljfmt)
 * [eastwood: Clojure lint tool](https://github.com/jonase/eastwood)
 * [lein-auto: A Leiningen plugin that executes tasks when files are modifed](https://github.com/weavejester/lein-auto)
+* [lein-ancient: Checks Projects for outdated Dependencies](https://github.com/xsc/lein-ancient)
 
 ## Emacs 
 * [Configuring Spacemacs: A Tutorial](http://thume.ca/howto/2015/03/07/configuring-spacemacs-a-tutorial/)
