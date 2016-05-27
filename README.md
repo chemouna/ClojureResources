@@ -206,6 +206,7 @@ To Aggregate resources to learn and understand Clojure (and LISP in general).
 ## Clojure Code Style
 * [A Community Driven Clojure Style Guide](https://github.com/bbatsov/clojure-style-guide#tooling)
 * [How to Read Clojure Code Like an Expert](http://www.lispcast.com/how-to-read-code-like-a-clojure-expert#fn1)
+* [Automating Style In Clojure](http://blog.ona.io/general/2016/02/07/automating-style-in-clojure.html)
 
 ## Core Async
 * [Comparing Core Async and Rx by Example](http://www.jayway.com/2014/09/16/comparing-core-async-and-rx-by-example/)
