@@ -190,6 +190,10 @@ To Aggregate resources to learn and understand Clojure (and LISP in general).
 * [CrossClj: cross-referencing the Clojure ecosystem](https://crossclj.info/)
 * [Give your clojure workflow more flow](http://z.caudate.me/give-your-clojure-workflow-more-flow/)
 * [Alembic - a library to control your classpath](http://palletops.com/alembic-clojure-classpath-control/)
+* [lein-test-refresh: Refreshes and reruns clojure.tests in your project](https://github.com/jakemcc/lein-test-refresh)
+* [cljfmt: A tool for formatting Clojure code](https://github.com/weavejester/cljfmt)
+* [eastwood: Clojure lint tool](https://github.com/jonase/eastwood)
+* [lein-auto: A Leiningen plugin that executes tasks when files are modifed](https://github.com/weavejester/lein-auto)
 
 ## Emacs 
 * [Configuring Spacemacs: A Tutorial](http://thume.ca/howto/2015/03/07/configuring-spacemacs-a-tutorial/)
