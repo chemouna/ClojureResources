@@ -172,6 +172,8 @@ To Aggregate resources to learn and understand Clojure (and LISP in general).
 * [lein-test-refresh: Refreshes and reruns clojure.tests in your project
 ](https://github.com/jakemcc/lein-test-refresh)
 * [collection-check: fuzz testing for alternate clojure data structures](https://github.com/ztellman/collection-check)
+* [Effective Test.Check](http://yellerapp.com/posts/2015-04-13-effective-test-check.html)
+
 
 ## Debugging 
 * [Spyscope](https://github.com/dgrnbrg/spyscope)
