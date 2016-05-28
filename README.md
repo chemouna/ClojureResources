@@ -162,6 +162,7 @@ To Aggregate resources to learn and understand Clojure (and LISP in general).
 * [DynamoDB API for Clojure](https://github.com/weavejester/rotary)
 * [congomongo: Clojure wrapper for the mongo-db java api](https://github.com/aboekhoff/congomongo)
 * [monger: Monger is an idiomatic Clojure MongoDB driver](https://github.com/michaelklishin/monger)
+* [yesql: A Clojure library for using SQL](https://github.com/krisajenkins/yesql)
 
 ## Testing
 * [Midje](https://github.com/marick/Midje)
