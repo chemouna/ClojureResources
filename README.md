@@ -139,6 +139,7 @@ To Aggregate resources to learn and understand Clojure (and LISP in general).
 
 ## Server/Web development Projects
 * [Compojure](https://github.com/weavejester/compojure/)
+* [compojure-api](https://github.com/metosin/compojure-api)
 * [ClojureScript](https://github.com/clojure/clojurescript)
 * [Lein-figwheel](https://github.com/bhauman/lein-figwheel)
 * [Om: ClojureScript interface to Facebook's React](https://github.com/omcljs/om)
