@@ -176,13 +176,13 @@ To Aggregate resources to learn and understand Clojure (and LISP in general).
 * [collection-check: fuzz testing for alternate clojure data structures](https://github.com/ztellman/collection-check)
 * [Effective Test.Check](http://yellerapp.com/posts/2015-04-13-effective-test-check.html)
 
-
 ## Debugging 
 * [Spyscope](https://github.com/dgrnbrg/spyscope)
 * [Debugging in Clojure: Tools](http://brownsofa.org/blog/2014/08/03/debugging-in-clojure-tools/)
 * [Clojure Stack Traces for the Uninitiated](https://blog.8thlight.com/connor-mendenhall/2014/09/12/clojure-stacktraces.html)
 * [Reading Clojure Stacktraces](http://blog.jayfields.com/2012/06/reading-clojure-stacktraces.html)
 * [More readable stacktraces for Clojure](https://github.com/mmcgrana/clj-stacktrace)
+* [Timbre for logging](https://github.com/ptaoussanis/timbre)
 
 ## Tools
 * [Clojure with Emacs](http://clojure-doc.org/articles/tutorials/emacs.html)
@@ -199,6 +199,7 @@ To Aggregate resources to learn and understand Clojure (and LISP in general).
 * [eastwood: Clojure lint tool](https://github.com/jonase/eastwood)
 * [lein-auto: A Leiningen plugin that executes tasks when files are modifed](https://github.com/weavejester/lein-auto)
 * [lein-ancient: Checks Projects for outdated Dependencies](https://github.com/xsc/lein-ancient)
+* [A tour of Clojure libraries that make life in the REPL more comfortable.](http://dev.solita.fi/2014/03/18/pimp-my-repl.html)
 
 ## Emacs 
 * [Configuring Spacemacs: A Tutorial](http://thume.ca/howto/2015/03/07/configuring-spacemacs-a-tutorial/)
