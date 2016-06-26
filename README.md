@@ -201,6 +201,12 @@ To Aggregate resources to learn and understand Clojure (and LISP in general).
 * [lein-auto: A Leiningen plugin that executes tasks when files are modifed](https://github.com/weavejester/lein-auto)
 * [lein-ancient: Checks Projects for outdated Dependencies](https://github.com/xsc/lein-ancient)
 * [A tour of Clojure libraries that make life in the REPL more comfortable.](http://dev.solita.fi/2014/03/18/pimp-my-repl.html)
+* [lein-autoexpect](https://github.com/jakemcc/lein-autoexpect)
+* [lein-ancient](https://github.com/xsc/lein-ancient)
+* [lein-pprint](https://github.com/technomancy/leiningen/tree/master/lein-pprint)
+* [humane-test-output](https://github.com/pjstadig/humane-test-output)
+* [criterium](https://github.com/hugoduncan/criterium)
+
 
 ## Emacs 
 * [Configuring Spacemacs: A Tutorial](http://thume.ca/howto/2015/03/07/configuring-spacemacs-a-tutorial/)
