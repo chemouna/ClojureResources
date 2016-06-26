@@ -13,16 +13,7 @@ To Aggregate resources to learn and understand Clojure (and LISP in general).
 * [Clojure Contrib Library API Docs](http://clojure.github.io/).
 * [Clojure reader](http://clojure.org/reader).
 * [Clojure Distilled](http://yogthos.github.io/ClojureDistilled.html).
-* [Decomplecting Clojure](http://bensu.github.io/decomplecting_clojure/)
-
-## Learning Clojure 
-* [Brave Clojure](http://www.braveclojure.com/)
-* [4Clojure](https://www.4clojure.com/)
-
-## Concepts
-* [Idempotence](https://en.wikipedia.org/wiki/Idempotence)
-* [being Lazy in clojure](http://noobtuts.com/clojure/being-lazy-in-clojure).
-* [Functional Programming](http://clojure.org/about/functional_programming)
+* [Decomplecting Clojure](http://bensu.github.io/out/functional_programming)
 
 ## Data structures
 * [Getting Acquainted With Clojure Zippers](http://josf.info/blog/2014/03/21/getting-acquainted-with-clojure-zippers/).
@@ -136,6 +127,7 @@ To Aggregate resources to learn and understand Clojure (and LISP in general).
 * [What's the “big idea” behind compojure routes?](http://stackoverflow.com/questions/3488353/whats-the-big-idea-behind-compojure-routes)
 * [Clojure Web Programming and Ring](http://fhf.org/archives/739)
 * [Understanding Routing in Compojure](https://www.booleanknot.com/blog/2012/09/18/routing-in-compojure.html)
+* 
 
 ## Server/Web development Projects
 * [Compojure](https://github.com/weavejester/compojure/)
