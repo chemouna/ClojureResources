@@ -129,6 +129,7 @@ To Aggregate resources to learn and understand Clojure (and LISP in general).
 * [Component: Managed lifecycle of stateful objects in Clojure](https://github.com/stuartsierra/component)
 * [data.generators: Random data generators](https://github.com/clojure/data.generators)
 * [eastwood: Clojure lint tool](https://github.com/jonase/eastwood)
+* [frak](smartcal-clj-backend/src/smartcal/)
 
 ## Server/Web developement Learning
 * [Getting a web server up and running with Compojure](http://kendru.github.io/restful-clojure/2014/02/19/getting-a-web-server-up-and-running-with-compojure-restful-clojure-part-2/)
