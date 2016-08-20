@@ -209,7 +209,7 @@ To Aggregate resources to learn and understand Clojure (and LISP in general).
 * [lein-pprint](https://github.com/technomancy/leiningen/tree/master/lein-pprint)
 * [humane-test-output](https://github.com/pjstadig/humane-test-output)
 * [criterium](https://github.com/hugoduncan/criterium)
-
+* [Clojure Code Quality Tools](http://blog.mattgauger.com/blog/2014/09/15/clojure-code-quality-tools/)
 
 ## Emacs 
 * [Configuring Spacemacs: A Tutorial](http://thume.ca/howto/2015/03/07/configuring-spacemacs-a-tutorial/)
