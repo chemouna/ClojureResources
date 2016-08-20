@@ -275,3 +275,4 @@ To Aggregate resources to learn and understand Clojure (and LISP in general).
 * [Mark McGranaghan's Blog](https://mmcgrana.github.io/)
 * [spootnik: Pierre-Yves Ritschard's Blog](http://spootnik.org/)
 * [Dmitri Sotnikov's (iterate think thoughts)](https://yogthos.net/) 
+* [Matt Gauger's blog](http://blog.mattgauger.com/)
