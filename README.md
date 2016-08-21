@@ -1,4 +1,4 @@
-# Clojure-Resources
+@# Clojure-Resources
 Compilation of useful resources for learning Clojure
 To Aggregate resources to learn and understand Clojure (and LISP in general).
 
@@ -104,6 +104,7 @@ To Aggregate resources to learn and understand Clojure (and LISP in general).
 * [Writing Elegant Clojure Code Using Higher-Order Functions](http://christophermaier.name/blog/2011/07/07/writing-elegant-clojure-code-using-higher-order-functions)
 * [Clojure: Avoiding Anonymous Functions](http://blog.jayfields.com/2012/10/clojure-avoiding-anonymous-functions.html)
 * [Implementing Map in Clojure](http://commandercoriander.net/blog/2014/10/26/Implementing-Map-in-Clojure/)
+* [Destructuring in Clojure](http://clojure.org/guides/destructuring)
 
 ## Tutorials
 * [Clojure core.match tutorial](https://github.com/clojure/core.match/wiki/Overview).
