@@ -1,4 +1,4 @@
-@# Clojure-Resources
+# Clojure-Resources
 Compilation of useful resources for learning Clojure
 To Aggregate resources to learn and understand Clojure (and LISP in general).
 
@@ -39,6 +39,7 @@ To Aggregate resources to learn and understand Clojure (and LISP in general).
 * [Solving the Expression Problem with Clojure 1.2](http://www.ibm.com/developerworks/library/j-clojure-protocols/)
 * [Nil Punning (Or Null Pointers Considered Not So Bad)](http://www.lispcast.com/nil-punning)
 * [An interesting discussion about Nil punning](https://groups.google.com/forum/?fromgroups=#!topic/clojure/gWvXoHa7-t4)
+* [The sequence abstraction](https://clojurefun.wordpress.com/2012/08/27/the-sequence-abstraction/)
 
 ## Clojure's Special Forms
 * [:pre and :post](http://blog.fogus.me/2009/12/21/clojures-pre-and-post/)
@@ -91,7 +92,7 @@ To Aggregate resources to learn and understand Clojure (and LISP in general).
 * [Clojure: Apply a Function To Each Value of a Map](http://blog.jayfields.com/2011/08/clojure-apply-function-to-each-value-of.html)
 * [Hand-Rolling Flatten: Coming to Grips with Tree-Seq](http://rmulhol.github.io/clojure/2015/05/12/flatten-tree-seq.html)
 * [recur explained](https://clojurebridge.github.io/community-docs/docs/clojure/recur/)
-
+* [The “arity-reduce” pattern in Clojure](http://blog.darevay.com/2011/08/briefly-the-arity-reduce-pattern-in-clojure/)
 
 ## API
 * [How to remember the difference between conj and cons in Clojure](http://bfontaine.net/blog/2014/05/25/how-to-remember-the-difference-between-conj-and-cons-in-clojure/)
@@ -277,3 +278,4 @@ To Aggregate resources to learn and understand Clojure (and LISP in general).
 * [spootnik: Pierre-Yves Ritschard's Blog](http://spootnik.org/)
 * [Dmitri Sotnikov's (iterate think thoughts)](https://yogthos.net/) 
 * [Matt Gauger's blog](http://blog.mattgauger.com/)
+* [Dave Ray's blog](http://blog.darevay.com/)
