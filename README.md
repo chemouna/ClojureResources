@@ -40,6 +40,7 @@ To Aggregate resources to learn and understand Clojure (and LISP in general).
 * [Nil Punning (Or Null Pointers Considered Not So Bad)](http://www.lispcast.com/nil-punning)
 * [An interesting discussion about Nil punning](https://groups.google.com/forum/?fromgroups=#!topic/clojure/gWvXoHa7-t4)
 * [The sequence abstraction](https://clojurefun.wordpress.com/2012/08/27/the-sequence-abstraction/)
+* [Sequences](http://insideclojure.org/2015/01/02/sequences/)
 
 ## Clojure's Special Forms
 * [:pre and :post](http://blog.fogus.me/2009/12/21/clojures-pre-and-post/)
@@ -279,3 +280,4 @@ To Aggregate resources to learn and understand Clojure (and LISP in general).
 * [Dmitri Sotnikov's (iterate think thoughts)](https://yogthos.net/) 
 * [Matt Gauger's blog](http://blog.mattgauger.com/)
 * [Dave Ray's blog](http://blog.darevay.com/)
+* [Creative Clojure blog](https://clojurefun.wordpress.com/)
