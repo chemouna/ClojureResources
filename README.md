@@ -84,6 +84,7 @@ To Aggregate resources to learn and understand Clojure (and LISP in general).
 * [Clojure Explained - Macros demystified](http://lambdax.io/blog/posts/2016-03-07-macros-explained.html)
 * [What makes lisp macros so special](http://stackoverflow.com/questions/267862/what-makes-lisp-macros-so-special)
 * [Why Lisp macros are cool, a Perl perspective](http://lists.warhead.org.uk/pipermail/iwe/2005-July/000130.html)
+* [A "dead simple" introduction to Clojure macros](http://blog.brunobonacci.com/2015/04/19/dead-simple-introduction-to-clojure-macros/)
 
 ## Functions
 * [Clojure: partition-by, split-with, group-by, and juxt](http://blog.jayfields.com/2011/08/clojure-partition-by-split-with-group.html)
