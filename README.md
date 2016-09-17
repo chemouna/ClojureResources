@@ -213,6 +213,7 @@ To Aggregate resources to learn and understand Clojure (and LISP in general).
 * [humane-test-output](https://github.com/pjstadig/humane-test-output)
 * [criterium](https://github.com/hugoduncan/criterium)
 * [Clojure Code Quality Tools](http://blog.mattgauger.com/blog/2014/09/15/clojure-code-quality-tools/)
+* [Clojure different ways to comment](https://kotka.de/blog/2010/06/Did_you_know_V.html)
 
 ## Emacs 
 * [Configuring Spacemacs: A Tutorial](http://thume.ca/howto/2015/03/07/configuring-spacemacs-a-tutorial/)
