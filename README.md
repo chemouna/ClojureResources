@@ -183,6 +183,7 @@ To Aggregate resources to learn and understand Clojure (and LISP in general).
 ](https://github.com/jakemcc/lein-test-refresh)
 * [collection-check: fuzz testing for alternate clojure data structures](https://github.com/ztellman/collection-check)
 * [Effective Test.Check](http://yellerapp.com/posts/2015-04-13-effective-test-check.html)
+* [Fixtures as Caches](https://stuartsierra.com/2016/05/19/fixtures-as-caches)
 
 ## Debugging 
 * [Spyscope](https://github.com/dgrnbrg/spyscope)
@@ -191,6 +192,10 @@ To Aggregate resources to learn and understand Clojure (and LISP in general).
 * [Reading Clojure Stacktraces](http://blog.jayfields.com/2012/06/reading-clojure-stacktraces.html)
 * [More readable stacktraces for Clojure](https://github.com/mmcgrana/clj-stacktrace)
 * [Timbre for logging](https://github.com/ptaoussanis/timbre)
+
+## Spec
+* [Clojure 1.9 introduces clojure.spec: tutorial with live coding examples](http://blog.klipse.tech/clojure/2016/05/30/spec.html)
+
 
 ## Tools
 * [Clojure with Emacs](http://clojure-doc.org/articles/tutorials/emacs.html)
@@ -283,3 +288,4 @@ To Aggregate resources to learn and understand Clojure (and LISP in general).
 * [Matt Gauger's blog](http://blog.mattgauger.com/)
 * [Dave Ray's blog](http://blog.darevay.com/)
 * [Creative Clojure blog](https://clojurefun.wordpress.com/)
+* [A journey into functional programming](http://blog.klipse.tech/)
