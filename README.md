@@ -108,6 +108,7 @@ To Aggregate resources to learn and understand Clojure (and LISP in general).
 * [Clojure: Avoiding Anonymous Functions](http://blog.jayfields.com/2012/10/clojure-avoiding-anonymous-functions.html)
 * [Implementing Map in Clojure](http://commandercoriander.net/blog/2014/10/26/Implementing-Map-in-Clojure/)
 * [Destructuring in Clojure](http://clojure.org/guides/destructuring)
+* [Clojure Idioms, Patterns, and Style](https://christopherdbui.com/clojure-idioms/)
 
 ## Tutorials
 * [Clojure core.match tutorial](https://github.com/clojure/core.match/wiki/Overview).
@@ -143,7 +144,7 @@ To Aggregate resources to learn and understand Clojure (and LISP in general).
 * [What's the “big idea” behind compojure routes?](http://stackoverflow.com/questions/3488353/whats-the-big-idea-behind-compojure-routes)
 * [Clojure Web Programming and Ring](http://fhf.org/archives/739)
 * [Understanding Routing in Compojure](https://www.booleanknot.com/blog/2012/09/18/routing-in-compojure.html)
-* 
+* [Why We Use Om, and Why We're Excited for Om Next](https://circleci.com/blog/why-we-use-om-and-why-were-excited-for-om-next/)
 
 ## Server/Web development Projects
 * [Compojure](https://github.com/weavejester/compojure/)
