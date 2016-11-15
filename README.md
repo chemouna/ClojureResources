@@ -29,6 +29,7 @@ To Aggregate resources to learn and understand Clojure (and LISP in general).
 * [Datatypes: deftype, defrecord and reify](http://clojure.org/reference/datatypes).
 * [Clojure: Updating keys in a map](http://www.markhneedham.com/blog/2013/09/17/clojure-updating-keys-in-a-map/)
 * [Flowchart for choosing the right Clojure type definition form](http://cemerick.com/2011/07/05/flowchart-for-choosing-the-right-clojure-type-definition-form/)
+* [Data Structures in Clojure: Binary Search Trees](http://macromancy.com/2014/04/09/data-structures-clojure-trees.html)
 
 ## Abstractions
 * [Protocols](http://clojure.org/reference/protocols).
