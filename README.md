@@ -102,6 +102,7 @@ To Aggregate resources to learn and understand Clojure (and LISP in general).
 * [The Weird and Wonderful Characters of Clojure](https://yobriefca.se/blog/2014/05/19/the-weird-and-wonderful-characters-of-clojure/)
 * [Some Annotated clojure.core/reduce Examples](http://www.lispcast.com/annotated-clojure-core-reduce)
 * [Reference types: separating identities and values](https://scott.mn/2014/01/20/reference_types_separate_identities_and_values/)
+* [Atoms by experiment](https://scott.mn/2014/01/30/atoms_by_experiment/)
 
 ## Functions
 * [Clojure: Composing Functions](http://blog.jayfields.com/2010/07/clojure-composing-functions.html)
