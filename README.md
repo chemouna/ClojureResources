@@ -167,6 +167,8 @@ To Aggregate resources to learn and understand Clojure (and LISP in general).
 * [ClojureScript: Differences from Clojure](https://github.com/clojure/clojurescript/wiki/Differences-from-Clojure)
 * [clj-browserchannel](https://github.com/kirasystems/clj-browserchannel.git)
 * [Luminus - a Clojure web framework](http://www.luminusweb.net/)
+* [The Future of JavaScript MVC Frameworks](http://swannodette.github.io/2013/12/17/the-future-of-javascript-mvcs)
+* [Om: Cursors](https://github.com/omcljs/om/wiki/Cursors)
 
 ## Databases 
 * [Korma: Tasty SQL for Clojure](http://sqlkorma.com/docs)
