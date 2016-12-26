@@ -148,6 +148,8 @@ To Aggregate resources to learn and understand Clojure (and LISP in general).
 * [Clojure Web Programming and Ring](http://fhf.org/archives/739)
 * [Understanding Routing in Compojure](https://www.booleanknot.com/blog/2012/09/18/routing-in-compojure.html)
 * [Why We Use Om, and Why We're Excited for Om Next](https://circleci.com/blog/why-we-use-om-and-why-were-excited-for-om-next/)
+* [First Ompressions. A Conceptual Look at Om](http://josf.info/blog/2014/09/18/first-ompressions-a-conceptual-look-at-om/)
+* [Clojurescript - Handling Mouse Events With core.async](http://www.thesoftwaresimpleton.com/blog/2014/12/30/core-dot-async-dot-mouse-dot-down/)
 
 ## Server/Web development Projects
 * [Compojure](https://github.com/weavejester/compojure/)
@@ -169,6 +171,8 @@ To Aggregate resources to learn and understand Clojure (and LISP in general).
 * [Luminus - a Clojure web framework](http://www.luminusweb.net/)
 * [The Future of JavaScript MVC Frameworks](http://swannodette.github.io/2013/12/17/the-future-of-javascript-mvcs)
 * [Om: Cursors](https://github.com/omcljs/om/wiki/Cursors)
+* [Devcards](https://github.com/bhauman/devcards)
+* [lein devcards template](https://github.com/bhauman/devcards-template)
 
 ## Databases 
 * [Korma: Tasty SQL for Clojure](http://sqlkorma.com/docs)
@@ -248,6 +252,7 @@ To Aggregate resources to learn and understand Clojure (and LISP in general).
 * [Combining & Controlling Channels with core.async's merge and mix](https://yobriefca.se/blog/2014/06/01/combining-and-controlling-channels-with-core-dot-asyncs-merge-and-mix/)
 * [async-tests: Having fun with core.async](https://github.com/swannodette/async-tests)
 * [Clojure core.async and Go: A Code Comparison](https://blog.drewolson.org/clojure-go-comparison/)
+* [Using Transducers with Core.async in ClojureScript](http://blog.venanti.us/using-transducers-with-core-async-clojurescript/)
 
 ## Core logic 
 * [Logic programming is overrated](http://programming-puzzler.blogspot.fr/2013/03/logic-programming-is-overrated.html)
