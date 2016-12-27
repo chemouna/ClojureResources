@@ -152,6 +152,8 @@ To Aggregate resources to learn and understand Clojure (and LISP in general).
 * [Clojurescript - Handling Mouse Events With core.async](http://www.thesoftwaresimpleton.com/blog/2014/12/30/core-dot-async-dot-mouse-dot-down/)
 * [Introduction to Asynchronous Programming in Clojure](http://www.bradcypert.com/clojure-async/)
 * [Om: Removing Boilerplate](https://blog.tarn-vedra.de/posts/om-removing-boilerplate.html)
+* [React’s diff algorithm](http://calendar.perfplanet.com/2013/Server/)
+* [Debugging ClojureScript](https://medium.com/@roman01la/debugging-clojurescript-6e4d903e831#.rkem9vukg)
 
 ## Server/Web development Projects
 * [Compojure](https://github.com/weavejester/compojure/)
@@ -175,6 +177,9 @@ To Aggregate resources to learn and understand Clojure (and LISP in general).
 * [Om: Cursors](https://github.com/omcljs/om/wiki/Cursors)
 * [Devcards](https://github.com/bhauman/devcards)
 * [lein devcards template](https://github.com/bhauman/devcards-template)
+* [lein doo](https://github.com/bensu/doo)
+* [environ](https://github.com/weavejester/environ)
+* [cljs-devtools](https://github.com/binaryage/cljs-devtools)
 
 ## Databases 
 * [Korma: Tasty SQL for Clojure](http://sqlkorma.com/docs)
