@@ -151,6 +151,7 @@ To Aggregate resources to learn and understand Clojure (and LISP in general).
 * [First Ompressions. A Conceptual Look at Om](http://josf.info/blog/2014/09/18/first-ompressions-a-conceptual-look-at-om/)
 * [Clojurescript - Handling Mouse Events With core.async](http://www.thesoftwaresimpleton.com/blog/2014/12/30/core-dot-async-dot-mouse-dot-down/)
 * [Introduction to Asynchronous Programming in Clojure](http://www.bradcypert.com/clojure-async/)
+* [Om: Removing Boilerplate](https://blog.tarn-vedra.de/posts/om-removing-boilerplate.html)
 
 ## Server/Web development Projects
 * [Compojure](https://github.com/weavejester/compojure/)
