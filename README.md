@@ -271,6 +271,9 @@ To Aggregate resources to learn and understand Clojure (and LISP in general).
 * [Datomic Free](https://my.datomic.com/downloads/free)
 * [A Heroku buildpack to start Datomic using a worker](https://github.com/opengrail/heroku-buildpack-datomic)
 
+## Category theory
+* [Fluokitten: Functors, Applicatives and Monads in Pictures - in Clojure](http://fluokitten.uncomplicate.org/articles/functors_applicatives_monads_in_pictures.html)
+
 ## Interesting blog posts
 * [Writing simple-check](http://reiddraper.com/writing-simple-check/)
 
