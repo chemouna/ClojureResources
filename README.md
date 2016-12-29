@@ -212,7 +212,7 @@ To Aggregate resources to learn and understand Clojure (and LISP in general).
 
 ## Spec
 * [Clojure 1.9 introduces clojure.spec: tutorial with live coding examples](http://blog.klipse.tech/clojure/2016/05/30/spec.html)
-
+* [Interactive development with clojure.spec](http://blog.cognitect.com/blog/2016/10/5/interactive-development-with-clojurespec)
 
 ## Tools
 * [Clojure with Emacs](http://clojure-doc.org/articles/tutorials/emacs.html)
