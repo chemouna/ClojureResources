@@ -51,6 +51,7 @@ To Aggregate resources to learn and understand Clojure (and LISP in general).
 ## Clojure's Best Practices
 * [Record Constructors](http://stuartsierra.com/2015/05/17/clojure-record-constructors)
 * [Clojure Do’s: Namespace Aliases](http://stuartsierra.com/2015/05/10/clojure-namespace-aliases)
+* [https://stuartsierra.com/2015/08/25/clojure-donts-lazy-effects](Clojure Don’ts: Lazy Effects)
 
 ## Clojure Namespaces
 * [Clojure Libs and Namespaces: require, use, import, and ns](https://blog.8thlight.com/colin-jones/2010/12/05/clojure-libs-and-namespaces-require-use-import-and-ns.html)
@@ -96,15 +97,6 @@ To Aggregate resources to learn and understand Clojure (and LISP in general).
 * [Hand-Rolling Flatten: Coming to Grips with Tree-Seq](http://rmulhol.github.io/clojure/2015/05/12/flatten-tree-seq.html)
 * [recur explained](https://clojurebridge.github.io/community-docs/docs/clojure/recur/)
 * [The “arity-reduce” pattern in Clojure](http://blog.darevay.com/2011/08/briefly-the-arity-reduce-pattern-in-clojure/)
-
-## API
-* [How to remember the difference between conj and cons in Clojure](http://bfontaine.net/blog/2014/05/25/how-to-remember-the-difference-between-conj-and-cons-in-clojure/)
-* [The Weird and Wonderful Characters of Clojure](https://yobriefca.se/blog/2014/05/19/the-weird-and-wonderful-characters-of-clojure/)
-* [Some Annotated clojure.core/reduce Examples](http://www.lispcast.com/annotated-clojure-core-reduce)
-* [Reference types: separating identities and values](https://scott.mn/2014/01/20/reference_types_separate_identities_and_values/)
-* [Atoms by experiment](https://scott.mn/2014/01/30/atoms_by_experiment/)
-
-## Functions
 * [Clojure: Composing Functions](http://blog.jayfields.com/2010/07/clojure-composing-functions.html)
 * [Clojure: State Management](http://blog.jayfields.com/2011/04/clojure-state-management.html)
 * [Writing Elegant Clojure Code Using Higher-Order Functions](http://christophermaier.name/blog/2011/07/07/writing-elegant-clojure-code-using-higher-order-functions)
@@ -112,6 +104,13 @@ To Aggregate resources to learn and understand Clojure (and LISP in general).
 * [Implementing Map in Clojure](http://commandercoriander.net/blog/2014/10/26/Implementing-Map-in-Clojure/)
 * [Destructuring in Clojure](http://clojure.org/guides/destructuring)
 * [Clojure Idioms, Patterns, and Style](https://christopherdbui.com/clojure-idioms/)
+
+## API
+* [How to remember the difference between conj and cons in Clojure](http://bfontaine.net/blog/2014/05/25/how-to-remember-the-difference-between-conj-and-cons-in-clojure/)
+* [The Weird and Wonderful Characters of Clojure](https://yobriefca.se/blog/2014/05/19/the-weird-and-wonderful-characters-of-clojure/)
+* [Some Annotated clojure.core/reduce Examples](http://www.lispcast.com/annotated-clojure-core-reduce)
+* [Reference types: separating identities and values](https://scott.mn/2014/01/20/reference_types_separate_identities_and_values/)
+* [Atoms by experiment](https://scott.mn/2014/01/30/atoms_by_experiment/)
 
 ## Tutorials
 * [Clojure core.match tutorial](https://github.com/clojure/core.match/wiki/Overview).
